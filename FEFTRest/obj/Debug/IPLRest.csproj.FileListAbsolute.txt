@@ -1,0 +1,186 @@
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Visual Studio 2008\Projects\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+D:\Codes\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+D:\Codes\iplwebsvc\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+D:\Codes\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+I:\Mbadi\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+I:\Mbadi\iplwebsvc\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+I:\Mbadi\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+I:\Mbadi\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+F:\Mbadi\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+F:\Mbadi\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+F:\Mbadi\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+F:\Mbadi\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+F:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+F:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+F:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+F:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+E:\Codes\DotNet\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+E:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+E:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+E:\Codes\DotNet\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Mbadi\Desktop\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.dll.config
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\ArcComHelper.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\log4net.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\ArcComHelper.pdb
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\IPLRest.dll
+F:\CODES\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\IPLRest.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\log4net.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\IPLRest.dll
+C:\Users\Mbadi\Documents\Equity - Safaricom\iplwebsvc _ v3.1 (live @ safcom)\IPLRest\obj\Debug\IPLRest.pdb
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+F:\source codes\safaricom\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+F:\source codes\safaricom\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+F:\source codes\safaricom\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+F:\source codes\safaricom\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\webservice bkup\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\webservice bkup\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+C:\webservice bkup\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\webservice bkup\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll.config
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\IPLRest.dll
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\IPLRest.pdb
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.dll
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\log4net.dll
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\Personal\iplwebsvc\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\Personal\iplwebsvc\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+C:\Personal\iplwebsvc\IPLRest\obj\Debug\IPLRest.dll
+C:\Personal\iplwebsvc\IPLRest\obj\Debug\IPLRest.pdb
+C:\IPLECR\IPLRest\bin\Debug\IPLRest.dll.config
+C:\IPLECR\IPLRest\bin\Debug\IPLRest.dll
+C:\IPLECR\IPLRest\bin\Debug\IPLRest.pdb
+C:\IPLECR\IPLRest\bin\Debug\ArcComHelper.dll
+C:\IPLECR\IPLRest\bin\Debug\log4net.dll
+C:\IPLECR\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+C:\IPLECR\IPLRest\bin\Debug\ECR.dll
+C:\IPLECR\IPLRest\bin\Debug\ArcComHelper.pdb
+C:\IPLECR\IPLRest\bin\Debug\ECR.pdb
+C:\IPLECR\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+C:\IPLECR\IPLRest\obj\Debug\IPLRest.dll
+C:\IPLECR\IPLRest\obj\Debug\IPLRest.pdb
+D:\IPLECR\IPLRest\bin\Debug\IPLRest.dll.config
+D:\IPLECR\IPLRest\bin\Debug\IPLRest.dll
+D:\IPLECR\IPLRest\bin\Debug\IPLRest.pdb
+D:\IPLECR\IPLRest\bin\Debug\ArcComHelper.dll
+D:\IPLECR\IPLRest\bin\Debug\log4net.dll
+D:\IPLECR\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+D:\IPLECR\IPLRest\bin\Debug\ECR.dll
+D:\IPLECR\IPLRest\bin\Debug\ArcComHelper.pdb
+D:\IPLECR\IPLRest\bin\Debug\ECR.pdb
+D:\IPLECR\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+D:\IPLECR\IPLRest\obj\Debug\IPLRest.dll
+D:\IPLECR\IPLRest\obj\Debug\IPLRest.pdb
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\IPLRest.dll.config
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\IPLRest.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\IPLRest.pdb
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\ArcComHelper.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\log4net.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\ECR.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\Interop.ARCCOMLib.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\ArcComHelper.pdb
+D:\fortified benture\Developments\Working IPLECR\IPLRest\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\Working IPLECR\IPLRest\obj\Debug\IPLRest.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\Working IPLECR\IPLRest\obj\Debug\IPLRest.dll
+D:\fortified benture\Developments\Working IPLECR\IPLRest\obj\Debug\IPLRest.pdb

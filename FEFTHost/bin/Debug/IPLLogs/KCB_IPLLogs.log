@@ -1,0 +1,854 @@
+2015-02-19 12:59:15,153 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 12:59:15,166 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 12:59:50,949 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 12:59:50,972 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:00:36,951 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:00:36,965 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:06:10,475 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:06:37,032 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:06:57,034 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:06:57,045 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:13:26,197 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:13:26,210 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:13:49,525 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:13:49,539 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:15:25,699 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:15:52,700 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:17:53,839 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-02-19 13:23:13,562 [ERROR] – Object reference not set to an instance of an object.
+2015-02-19 13:24:39,274 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0, Object arg1, Object arg2)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\Personal\iplwebsvc\ArcComHelper\MarshallDLL.cs:line 159
+2015-03-01 19:10:58,001 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 19:10:58,293 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-01 19:13:55,569 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 19:13:55,753 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-01 19:14:06,858 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 19:14:07,060 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-01 19:14:14,195 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 19:14:14,342 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-01 19:38:27,629 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 19:38:27,833 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-01 22:06:55,874 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-01 22:07:01,327 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=90371372, RRN=, TransType=Sale
+2015-03-02 17:50:08,173 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-02 17:50:09,407 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-02 17:52:11,058 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-02 17:52:14,354 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=43000045, RRN=, TransType=Sale
+2015-03-06 10:47:13,463 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 10:47:14,363 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-06 10:47:23,450 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 10:47:23,513 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-06 10:47:49,595 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 10:47:50,047 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-06 10:50:19,389 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 10:50:19,481 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=43000045, RRN=, TransType=Sale
+2015-03-06 10:56:00,483 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 10:56:00,703 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=43000045, RRN=, TransType=Sale
+2015-03-06 12:31:58,114 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-06 12:31:58,254 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-13 15:21:43,166 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-13 15:21:48,760 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-13 15:21:55,511 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-13 15:22:00,702 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-13 15:23:49,066 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-13 15:25:21,520 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 12:43:23,597 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 12:43:29,082 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 12:44:02,271 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 12:44:07,346 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 12:47:09,721 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 12:47:15,166 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 12:50:11,389 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 12:51:31,280 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 12:52:49,909 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 12:53:33,446 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:11:03,912 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:11:04,424 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:12:38,871 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:13:16,116 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:13:39,843 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:13:40,565 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:46:10,758 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:46:56,192 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:49:46,593 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:51:51,736 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:52:28,031 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:53:34,410 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:53:37,326 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:54:03,380 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:54:04,909 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 13:54:36,871 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 13:55:09,984 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 14:51:36,145 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 14:51:36,323 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 14:53:00,150 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 14:53:53,226 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 15:10:12,193 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 15:10:12,228 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 15:12:12,752 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 15:12:12,786 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 15:33:07,374 [INFO ] – REQ.SALE. Marshall Request: Amount=1000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 15:33:07,410 [INFO ] – RES.SALE. Marshall Response: Amount=1000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 15:35:24,780 [INFO ] – REQ.SALE. Marshall Request: Amount=1000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 15:35:24,815 [INFO ] – RES.SALE. Marshall Response: Amount=1000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 15:58:50,832 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 15:58:50,899 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 16:10:54,991 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 16:10:55,079 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 16:11:07,084 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 16:11:07,120 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 16:11:42,458 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 16:11:42,490 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 16:17:18,768 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 16:17:19,069 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 16:29:13,861 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 16:29:13,900 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 17:21:31,164 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 17:22:08,579 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 18:58:07,164 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 18:58:49,717 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:00:24,933 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:00:24,980 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:01:41,100 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:01:41,131 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:16:33,925 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:16:34,000 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:21:14,155 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:21:14,197 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:24:51,152 [ERROR] – REQ: Sale - Trans.Amount not provided
+2015-03-16 19:28:16,940 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:29:10,880 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:39:20,628 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:39:20,666 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 19:50:45,795 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 19:50:45,836 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 20:41:54,475 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 20:41:54,521 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-16 22:14:27,973 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-16 22:14:28,040 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 07:56:56,534 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 07:56:56,744 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 08:36:28,619 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 08:36:28,664 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 08:38:43,458 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 08:38:43,492 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:31:20,558 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:31:20,593 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:34:42,084 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:34:42,123 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:35:25,367 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:35:25,403 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:38:58,362 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:39:26,965 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:51:10,086 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:51:10,127 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:54:46,772 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:54:46,810 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 09:59:11,683 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 09:59:11,722 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 11:39:29,566 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 11:39:33,296 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 11:41:06,385 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 11:41:06,423 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 11:50:02,099 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 11:50:02,188 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 11:56:50,563 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 11:56:50,603 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-17 11:59:45,928 [INFO ] – REQ.SALE. Marshall Request: Amount=2000, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-17 11:59:45,959 [INFO ] – RES.SALE. Marshall Response: Amount=2000, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-03-18 13:54:17,710 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 13:54:17,962 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 13:54:48,329 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 13:54:48,400 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 13:54:54,154 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 13:54:54,182 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 13:55:37,710 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 13:55:37,739 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 13:57:42,154 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 13:57:42,234 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 14:02:14,317 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 14:02:14,358 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 14:02:23,499 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 14:02:23,545 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 14:16:04,178 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 14:16:04,209 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 14:17:39,858 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 14:17:39,930 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn Process error., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-03-18 15:01:31,567 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 15:01:31,608 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-03-18 15:02:14,236 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-03-18 15:02:14,277 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-04 12:10:34,594 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-04 12:10:34,755 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-04 12:19:40,730 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-04 12:19:40,779 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-04 12:32:11,633 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-04 12:32:11,679 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 13:45:24,271 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 13:45:24,519 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:24:21,495 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:24:22,328 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:30:29,916 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:30:29,956 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:38:02,910 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:38:02,951 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:38:53,641 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:38:53,682 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:40:40,738 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:40:40,778 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:40:44,295 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:40:44,333 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-09 16:45:51,229 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-09 16:45:51,270 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-20 14:55:03,121 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-20 14:55:03,312 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-20 15:03:04,397 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-20 15:03:04,440 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-20 15:03:23,311 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-20 15:03:23,355 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-20 15:06:40,720 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-20 15:06:40,762 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-20 15:07:33,692 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-20 15:09:11,402 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 12:15:04,333 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 12:15:22,372 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 12:25:05,121 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 12:25:05,156 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 12:50:02,036 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 12:50:02,082 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 13:03:49,866 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 13:03:49,901 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 13:04:02,583 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 13:04:02,677 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 13:11:29,287 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 13:11:29,383 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 13:37:18,440 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 13:37:18,485 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 13:38:33,082 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 13:38:33,117 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:04:21,525 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:04:21,650 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:05:53,591 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:05:53,634 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:07:35,846 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:07:35,880 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:08:33,590 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:08:33,631 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:08:45,484 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:08:45,520 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:25:23,851 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:25:23,892 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 14:31:17,097 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:31:17,141 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(01-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-27 14:55:10,638 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:55:10,688 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:55:22,505 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:55:22,547 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:56:01,205 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:56:01,241 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:56:23,159 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:56:23,191 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:56:36,304 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:56:36,379 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 14:57:23,341 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 14:57:23,383 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:00:44,657 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:00:44,693 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:00:49,185 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:00:49,227 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:00:59,077 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:00:59,108 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:01:49,973 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:01:50,014 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:02:43,545 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:02:43,578 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:02:59,604 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:02:59,640 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:06:53,451 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:06:53,682 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:09:25,448 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:09:25,483 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:10:31,018 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:10:31,054 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 15:12:54,868 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 15:12:54,900 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:07:37,792 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:07:37,922 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:10:49,145 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:10:49,249 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:11:05,573 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:11:05,614 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:11:31,000 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:11:31,040 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:12:29,045 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:12:29,082 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 16:14:48,238 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 16:14:48,271 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 18:38:51,436 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 18:38:51,753 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=COMMUNI. ERR    , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-04-27 18:40:15,017 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 18:40:15,098 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=COMMUNI. ERR    , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-04-27 18:44:20,112 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 18:44:20,160 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:29:46,493 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:29:46,541 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:30:14,523 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:30:14,564 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:30:38,521 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:30:38,553 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:35:19,158 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:35:19,199 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:35:34,117 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:35:34,149 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:50:29,374 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:50:29,423 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 19:57:01,391 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:57:01,438 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 19:58:19,215 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 19:58:19,250 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:00:35,359 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:00:35,395 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:01:59,132 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:01:59,180 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:04:03,807 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:04:03,841 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=COMMUNI. ERR    , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:07:36,112 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:07:36,164 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 20:28:29,048 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:28:29,108 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 20:31:18,316 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:31:18,396 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:32:44,713 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:32:44,755 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:33:33,248 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:33:33,301 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:38:43,370 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:38:43,417 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 20:45:20,305 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:45:20,359 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 20:46:13,798 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 20:46:13,840 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 21:08:59,450 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 21:08:59,498 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-27 22:56:19,355 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 22:56:19,418 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 22:56:43,878 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 22:56:43,918 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 22:57:44,893 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 22:57:44,958 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 22:58:03,442 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 22:58:03,484 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:01:50,727 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:01:50,772 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:02:19,188 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:02:19,221 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:03:23,293 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:03:23,385 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:03:41,823 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:03:41,858 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:05:07,915 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:05:07,947 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:08:41,122 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:08:41,156 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:09:13,448 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:09:13,486 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:09:25,413 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:09:25,446 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:09:40,780 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:09:40,819 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:12:03,301 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:12:03,345 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:12:14,211 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:12:14,245 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:12:18,623 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:12:18,656 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:36,375 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:36,407 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:43,623 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:43,660 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:46,351 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:46,385 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:47,578 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:47,613 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:48,520 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:48,613 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:13:49,264 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:13:49,303 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:14:36,593 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:14:36,637 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:20:41,246 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:20:41,278 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:26:12,283 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:26:12,325 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:30:27,327 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:30:27,374 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-27 23:30:42,235 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:30:42,268 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:30:57,991 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:30:58,033 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:32:12,083 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:32:12,117 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-27 23:33:02,989 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:33:03,063 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:36:03,367 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:36:03,419 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-27 23:36:37,089 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:36:37,125 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:36:56,318 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:36:56,370 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:37:17,097 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:37:17,138 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:37:33,575 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:37:33,609 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:39:26,217 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:39:26,257 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:39:33,582 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:39:33,619 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : System Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-27 23:41:14,631 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-27 23:41:14,812 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-28 09:32:15,491 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:32:15,576 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-04-28 09:33:39,861 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:33:39,943 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:37:13,528 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:37:13,577 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:38:41,493 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:38:41,568 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:40:07,409 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:40:07,449 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:40:41,096 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:40:41,137 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:52:01,593 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:52:01,643 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:53:20,924 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:53:20,958 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 09:55:42,206 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:55:42,250 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:56:31,958 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:56:32,001 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 09:57:48,110 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 09:57:48,149 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:02:10,505 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:02:10,548 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:30:31,737 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:30:31,829 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:38:24,100 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:38:24,151 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:38:30,202 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:38:30,239 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:41:38,450 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:41:38,492 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:41:46,112 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:41:46,148 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:41:56,805 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:41:56,841 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:46:23,607 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:46:23,661 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:52:58,440 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:52:58,488 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:54:26,817 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:54:26,862 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:55:01,378 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:55:01,419 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 10:55:34,703 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:55:34,736 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:55:39,413 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:55:39,446 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 10:59:09,706 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 10:59:09,753 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 11:01:56,987 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:01:57,020 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:02:00,810 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:02:00,845 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:02:55,283 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:02:55,325 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Access to the port is denied., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-28 11:06:12,164 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:06:12,205 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:06:21,373 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:06:21,407 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:06:43,242 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:06:43,275 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:06:49,340 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:06:49,376 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:06:53,855 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:06:53,896 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-04-28 11:44:09,297 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-28 11:44:09,343 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-04-30 16:00:22,792 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-04-30 16:00:23,213 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616721, RRN=, TransType=Sale
+2015-05-05 00:43:07,602 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 00:43:07,751 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 01:23:44,169 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 01:23:44,902 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 01:29:46,584 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 01:29:46,637 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 12:50:56,792 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 12:50:57,056 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 12:55:27,360 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 13:05:25,840 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 13:06:01,691 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 13:06:01,732 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 13:08:37,016 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 13:08:45,797 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 13:09:02,405 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 13:13:35,453 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 13:54:26,368 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 13:54:26,459 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 13:54:32,758 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 13:54:32,794 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 13:55:52,423 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 13:55:52,461 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:05:01,015 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:05:01,060 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:11:12,480 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:11:12,526 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:12:30,763 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:12:30,801 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:12:34,679 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:12:34,715 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:16:51,691 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:16:51,722 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:18:31,801 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:18:31,837 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:19:27,539 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:19:27,579 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:20:09,499 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:20:09,535 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 14:23:33,975 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:23:34,020 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 14:24:05,564 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:24:05,609 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:25:10,985 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:25:11,021 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:25:53,100 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:25:53,135 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:26:38,944 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:26:38,979 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:27:11,258 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:27:11,291 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:27:57,298 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:27:57,360 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:31:04,532 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:31:04,578 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:32:23,815 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:32:23,845 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:53:49,596 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:53:49,648 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:55:22,273 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:55:22,313 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:57:26,717 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:57:26,767 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=No Response / Timeout, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 14:59:11,223 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 14:59:11,267 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=COMMUNI. ERR    , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-05-05 15:03:21,051 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 15:03:21,086 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=COMMUNI. ERR    , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-05-05 15:09:19,127 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 15:09:19,185 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 15:09:24,872 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 15:09:24,946 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-05 16:22:03,564 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 16:22:03,915 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 16:43:41,797 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 16:43:41,985 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1703, CurrencyCode=404, Message=CHIP ERROR      , PAN=519601xxxxxx9033, TID=93004013, RRN=, TransType=Sale
+2015-05-05 16:50:15,534 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 16:50:15,580 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 17:09:27,022 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 17:09:46,399 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 17:09:46,433 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 17:10:11,500 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 17:10:11,538 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 18:10:01,503 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 18:10:01,745 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 18:13:51,437 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 18:13:51,474 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 18:23:18,041 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 18:23:18,088 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 18:27:41,105 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 19:06:29,090 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 19:07:25,279 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 19:07:25,322 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 19:14:46,898 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 19:14:46,940 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 19:58:24,100 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 19:58:34,560 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 19:58:34,698 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-05 19:58:38,588 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:00:46,591 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:01:30,526 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:10:38,481 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:18:34,016 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 20:19:41,444 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 20:20:18,084 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 20:20:57,306 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 20:20:57,351 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 20:21:57,677 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:22:04,930 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:23:08,709 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:24:27,356 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:24:30,095 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:25:18,301 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:27:37,098 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 20:30:01,593 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 20:30:21,205 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in C:\IPLECR\ArcComHelper\MarshallDLL.cs:line 228
+2015-05-05 20:31:07,779 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 20:31:07,835 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 20:31:23,977 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 21:18:49,761 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-05 21:18:49,813 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-05 21:19:13,640 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 21:19:23,233 [ERROR] – Object reference not set to an instance of an object.
+2015-05-05 21:23:48,059 [ERROR] – Object reference not set to an instance of an object.
+2015-05-06 09:46:56,851 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 09:46:57,687 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Please check Router application is Running, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-05-06 09:48:14,126 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 09:48:14,175 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=NOT ACCEPTED    , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-05-06 09:49:00,602 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 09:49:00,638 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:00:41,693 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:00:41,733 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:30:31,630 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:30:31,673 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:32:20,009 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:32:20,052 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=System Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:36:43,319 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:36:43,361 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:42:54,407 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:42:54,454 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 10:44:06,715 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 10:44:06,750 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-05-06 11:40:42,361 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-05-06 11:40:42,635 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-05 22:51:14,940 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-05 22:51:15,229 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-06-07 21:36:44,952 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-07 21:36:45,156 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-06-07 21:41:08,834 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-07 21:41:08,874 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-07 21:46:46,691 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-07 21:46:50,613 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-07 21:53:10,534 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-07 21:53:10,605 [INFO ] – RES.SALE. Marshall Response: Amount=, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-07 22:07:37,261 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-07 22:07:37,304 [INFO ] – RES.SALE. Marshall Response: Amount=, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-08 00:24:00,772 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-08 00:24:01,035 [INFO ] – RES.SALE. Marshall Response: Amount=, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=, Message=Please check Router application is Running, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-08 00:31:02,556 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-08 00:31:02,600 [INFO ] – RES.SALE. Marshall Response: Amount=, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-09 00:10:12,184 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-09 00:10:12,536 [INFO ] – RES.SALE. Marshall Response: Amount=, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=, Message=Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-09 00:10:58,413 [INFO ] – REQ.SALE. Marshall Request: Amount=00, Cashback=0, CurrencyCode=, OperationCode=
+2015-06-09 00:10:58,461 [INFO ] – RES.SALE. Marshall Response: Amount=00, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=, Message=Zero Amount not allowed, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-09 00:18:20,497 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-09 00:18:20,538 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Invalid Response(06-02) from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-09 00:23:17,054 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-09 00:23:17,093 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-09 00:24:55,551 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-09 00:24:55,583 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 14:49:39,844 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 14:49:40,263 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 14:49:53,714 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 14:49:53,754 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:33:11,973 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:33:12,192 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:34:59,625 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:34:59,685 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:35:24,700 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:35:24,879 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : The specified port does not exist., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:36:05,284 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:36:05,326 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:37:41,088 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:37:41,195 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 17:37:51,647 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 17:37:51,679 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 21:43:02,439 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 21:43:02,675 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 21:43:02,831 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 21:43:02,917 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 21:44:22,162 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 21:44:22,204 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 21:44:26,730 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 21:44:26,766 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 21:44:36,844 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 21:44:36,878 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:06:51,379 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:06:51,466 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:06:56,536 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:06:56,569 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:07:45,326 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:07:45,378 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:07:49,257 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:07:49,316 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:09:30,867 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:09:30,901 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:14:18,335 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:14:18,378 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=93004013, RRN=, TransType=Sale
+2015-06-10 22:15:04,836 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:15:04,880 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:18:35,237 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:18:35,270 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Init Txn : Timeout / No Response from Device, PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-10 22:21:35,571 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:21:35,620 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616724, RRN=, TransType=Sale
+2015-06-10 22:23:16,617 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:23:16,665 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616724, RRN=, TransType=Sale
+2015-06-10 22:48:41,092 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 22:48:41,137 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616724, RRN=, TransType=Sale
+2015-06-10 23:06:45,108 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-10 23:06:45,292 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90616370, RRN=, TransType=Sale
+2015-06-16 10:40:14,816 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-06-16 10:40:15,064 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:16:53,121 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:16:53,247 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:18:39,834 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:18:39,901 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:19:39,466 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:19:39,501 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:19:50,870 [INFO ] – REQ.SALE. Marshall Request: Amount=0, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:19:50,908 [INFO ] – RES.SALE. Marshall Response: Amount=0, Cashback=0, AuthCode=, ResponseCode=73, CardExpiry=, CurrencyCode=404, Message=Zero Amount not allowed, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:20:06,141 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:20:06,177 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:20:17,817 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:20:17,853 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:20:27,157 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:20:27,208 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:21:00,294 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:21:00,324 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:21:06,895 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:21:06,933 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 10:22:56,737 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 10:22:56,776 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2015-09-16 17:15:23,111 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-09-16 17:15:23,193 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=80840995, RRN=, TransType=Sale
+2015-11-07 11:13:02,727 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-11-07 11:13:02,835 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=1906, CurrencyCode=404, Message=USE CHIP CARD   , PAN=453177xxxxxx0438, TID=43000307, RRN=, TransType=Sale
+2015-11-07 11:13:48,535 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-11-07 11:13:48,577 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90692038, RRN=, TransType=Sale
+2015-11-07 11:29:27,522 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2015-11-07 11:29:27,562 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=633109, ResponseCode=00, CardExpiry=1906, CurrencyCode=404, Message=APPROVAL 633109, PAN=453177xxxxxx0438, TID=43000307, RRN=000103770928, TransType=Sale
+2016-01-04 11:43:57,018 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-04 11:43:57,086 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2014-01-20 12:54:44,481 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=404, OperationCode=
+2014-01-20 12:54:44,550 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value)
+   at ArcComHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\utilies\Utils.cs:line 15
+   at ArcComHelper.MarshallDLL.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\MarshallDLL.cs:line 74
+2016-01-20 13:49:22,246 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-20 13:49:22,718 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2016-01-20 13:50:30,605 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-20 13:50:30,661 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value)
+   at ArcComHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\utilies\Utils.cs:line 15
+   at ArcComHelper.MarshallDLL.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\MarshallDLL.cs:line 74
+2016-01-20 13:50:42,735 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-20 13:50:42,794 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value)
+   at ArcComHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\utilies\Utils.cs:line 15
+   at ArcComHelper.MarshallDLL.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\MarshallDLL.cs:line 74
+2016-01-20 13:51:06,474 [INFO ] – REQ.SALE. Marshall Request: Amount=, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-20 13:51:06,543 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value)
+   at ArcComHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\utilies\Utils.cs:line 15
+   at ArcComHelper.MarshallDLL.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\MarshallDLL.cs:line 74
+2016-01-27 12:25:26,044 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-27 12:25:26,388 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=93, CardExpiry=, CurrencyCode=404, Message=Port Error, PAN=, TID=00000000, RRN=, TransType=Sale
+2016-01-27 12:30:02,850 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-27 12:30:02,964 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=The port is closed., PAN=, TID=90692038, RRN=, TransType=Sale
+2016-01-27 12:32:06,343 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-27 12:32:06,437 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=769289, ResponseCode=00, CardExpiry=1906, CurrencyCode=404, Message=APPROVAL 769289, PAN=453177xxxxxx0438, TID=43000307, RRN=000117816506, TransType=Sale
+2016-01-27 12:37:11,993 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,1,
+2016-01-27 12:37:22,866 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,1,1
+2016-01-27 12:37:43,596 [ERROR] – System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object[] args)
+   at ArcComHelper.MarshallDLL.execReversal(String Amount, String TransKey, Boolean log_Debug) in D:\fortified benture\Developments\Working IPLECR\ArcComHelper\MarshallDLL.cs:line 219
+2016-01-30 14:41:11,464 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-30 14:41:11,659 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=13000101, RRN=, TransType=Sale
+2016-01-30 14:44:39,974 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-30 14:44:40,045 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=13000101, RRN=, TransType=Sale
+2016-01-30 14:45:35,317 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-30 14:45:35,425 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=Timeout / No Response from Device, PAN=, TID=00000000, RRN=, TransType=Sale
+2016-01-30 14:52:42,255 [INFO ] – REQ.SALE. Marshall Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=
+2016-01-30 14:52:42,338 [INFO ] – RES.SALE. Marshall Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=99, CardExpiry=, CurrencyCode=404, Message=TRANS.CANCELLED , PAN=, TID=13000101, RRN=, TransType=Sale

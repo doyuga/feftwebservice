@@ -1,0 +1,1241 @@
+2016-07-29 18:53:30,338 [INFO ] Ц Validating Sale Request's parameters
+2016-07-29 18:53:30,359 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2016-07-29 18:53:30,522 [INFO ] Ц REQ.SALE. Arcus Request: Amount=2, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-07-29 18:53:30,523 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2016-07-29 18:53:40,613 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2016-07-29 18:53:40,635 [INFO ] Ц RES.SALE. Arcus Response: Amount=2, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:28:23,843 [INFO ] Ц Validating Sale Request's parameters
+2016-08-09 14:28:23,847 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2016-08-09 14:28:23,944 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:28:23,945 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2016-08-09 14:28:28,383 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2016-08-09 14:28:28,423 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:28:36,576 [INFO ] Ц Validating Sale Request's parameters
+2016-08-09 14:28:36,595 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2016-08-09 14:28:36,613 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:28:36,615 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2016-08-09 14:28:39,022 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2016-08-09 14:28:39,051 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:52:17,982 [INFO ] Ц Validating Sale Request's parameters
+2016-08-09 14:52:17,988 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2016-08-09 14:52:18,005 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:52:18,006 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2016-08-09 14:52:21,644 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2016-08-09 14:52:21,672 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2018-03-08 23:15:54,307 [INFO ] Ц Validating Sale Request's parameters
+2018-03-08 23:15:54,384 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-08 23:15:54,497 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-08 23:15:54,502 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-08 23:16:00,529 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-08 23:16:00,542 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-10 22:50:46,517 [INFO ] Ц Validating Sale Request's parameters
+2018-03-10 22:50:46,531 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-10 22:50:46,755 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:50:46,758 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-10 22:51:37,507 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-10 22:51:37,513 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=1904, CurrencyCode=404, Message=Incorrect sum, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203447, TransType=Sale
+2018-03-10 22:52:09,639 [INFO ] Ц Validating Sale Request's parameters
+2018-03-10 22:52:09,642 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-10 22:52:09,669 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:52:09,672 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-10 22:52:39,767 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-10 22:52:39,788 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1904, CurrencyCode=404, Message=Not enough means, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203467, TransType=Sale
+2018-03-10 22:53:05,393 [INFO ] Ц Validating Sale Request's parameters
+2018-03-10 22:53:05,396 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-10 22:53:05,405 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:53:05,407 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-10 22:53:42,006 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-10 22:53:42,023 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1904, CurrencyCode=404, Message=Not enough means, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203482, TransType=Sale
+2018-03-12 10:08:03,867 [INFO ] Ц Validating Sale Request's parameters
+2018-03-12 10:08:03,947 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-12 10:08:03,995 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-12 10:08:03,997 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-12 10:08:49,213 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-12 10:08:49,227 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=523916, ResponseCode=00, CardExpiry=1911, CurrencyCode=404, Message=Succesfully, PAN=517335xxxxxx3700, TID=00502600, RRN=807113678110, TransType=Sale
+2018-03-12 10:10:23,379 [INFO ] Ц Validating Sale Request's parameters
+2018-03-12 10:10:23,381 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-12 10:10:23,392 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-12 10:10:23,394 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-12 10:10:38,398 [INFO ] Ц Validating Sale Request's parameters
+2018-03-12 10:10:38,400 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-12 10:10:49,152 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-12 10:10:49,178 [INFO ] Ц String Message: ... stream ...
+2018-03-12 10:10:56,302 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-12 10:10:56,315 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-20 12:47:37,906 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:48:58,852 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:50:33,107 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:50:50,185 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:51:54,191 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:52:07,849 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:53:10,869 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:53:10,875 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:53:16,422 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:53:24,466 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-20 12:55:39,692 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:55:39,735 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:55:40,864 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:55:40,866 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-20 12:55:43,556 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-20 12:56:44,476 [INFO ] Ц Validating Sale Request's parameters
+2018-03-20 12:56:44,484 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-20 12:56:46,273 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:56:46,276 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-20 12:56:48,648 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-20 12:57:02,060 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-21 21:20:44,397 [INFO ] Ц Validating Sale Request's parameters
+2018-03-21 21:20:44,407 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-21 21:21:03,833 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-21 21:21:08,478 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-21 21:21:15,553 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-21 21:22:19,200 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:32:06,298 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:32:15,783 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:32:27,645 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:32:32,604 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:32:43,306 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:33:40,356 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:35:11,768 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:35:14,064 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:35:14,939 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:35:14,943 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:35:15,278 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:35:35,808 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:36:24,267 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:36:33,528 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:36:34,965 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:36:34,967 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:36:35,465 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:36:53,514 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:37:33,743 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:37:41,165 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:37:50,237 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:37:54,357 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:38:00,825 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:39:28,620 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:39:35,405 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:39:37,153 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:39:38,191 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:39:38,194 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:39:38,656 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:54:36,279 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:54:59,564 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:55:01,147 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:55:02,799 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:55:02,803 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:55:03,299 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:55:07,220 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:56:32,497 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 14:56:34,490 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 14:56:35,653 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:56:35,656 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 14:57:04,622 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 14:57:09,983 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=968027, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=Succesfully, PAN=418087xxxxxx2701, TID=00765390, RRN=808513870493, TransType=Sale
+2018-03-26 15:01:16,818 [INFO ] Ц Validating Sale Request's parameters
+2018-03-26 15:01:18,751 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-26 15:01:21,158 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 15:01:21,161 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-26 15:01:46,004 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-26 15:01:59,013 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=920028, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=Succesfully, PAN=418087xxxxxx2701, TID=00765390, RRN=808513871477, TransType=Sale
+2018-03-28 12:46:03,054 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:46:07,048 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:46:08,550 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:46:08,550 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:46:18,151 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:47:24,354 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:47:24,400 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:47:24,416 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:47:29,388 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:47:29,404 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:29,404 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:47:29,404 [INFO ] Ц GET http://172.16.29.247:6720/feft/sale/20062603320180328124551,2,100,0,1,Test
+Connection keep-alive
+Accept text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Accept-Encoding gzip
+Host 172.16.29.247:6720
+User-Agent Java/1.8.0_121
+
+2018-03-28 12:47:29,466 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:47:29,482 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:47:29,482 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:41,352 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:47:41,383 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:47:42,703 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=144085, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808713155277, TransType=Sale
+2018-03-28 12:47:42,703 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:43,583 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:43,583 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:47:43,598 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:47:43,598 [INFO ] Ц String Message: ... stream ...
+2018-03-28 12:47:43,630 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:47:43,630 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:43,645 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:47:43,645 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:47:52,637 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:48:01,583 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:48:10,575 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:48:10,607 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:48:10,622 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:48:12,798 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:48:12,813 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:48:12,829 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:48:12,907 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:48:12,907 [INFO ] Ц String Message: ... stream ...
+2018-03-28 12:48:14,784 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:48:14,799 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:58:18,280 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:58:18,298 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:58:18,362 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:58:18,366 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:58:33,169 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 12:58:33,170 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 12:58:43,875 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:58:43,883 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:58:43,884 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:58:46,357 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:58:46,361 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=145222, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808713157247, TransType=Sale
+2018-03-28 12:58:46,399 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 13:07:22,080 [INFO ] Ц Validating Reversal Request's parameters Amount: 12,1  Transkey: 1  Bank2
+2018-03-28 13:07:22,142 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 12,1
+2018-03-28 13:08:45,742 [INFO ] Ц Validating Reversal Request's parameters Amount: 12,1  Transkey: 1  Bank2
+2018-03-28 13:08:45,787 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 12,1
+2018-03-28 13:09:10,357 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 13:09:40,788 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:10:23,934 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=12
+2018-03-28 13:10:33,986 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 13:10:51,145 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 13:11:22,987 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-03-28 13:11:43,090 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 13:11:43,095 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:11:44,277 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=12
+2018-03-28 13:11:44,279 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 13:11:44,302 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 13:11:44,319 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-03-28 13:16:50,315 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 13:16:50,330 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:16:50,347 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:16:50,352 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 13:17:05,668 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 13:17:05,698 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=808713160235, TransType=Sale
+2018-03-28 13:56:11,894 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 13:56:11,899 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:56:13,470 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 13:56:13,472 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 13:56:21,226 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 13:56:21,251 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2109, CurrencyCode=404, Message=Answer code is not received, PAN=453179xxxxxx3122, TID=00765390, RRN=, TransType=Reversal
+2018-03-28 13:56:57,088 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 13:56:57,103 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:56:57,145 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:56:57,149 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 13:57:15,686 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 13:57:15,838 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=808713166874, TransType=Sale
+2018-03-28 13:57:26,119 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 13:57:26,121 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:57:26,135 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:57:26,137 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 13:57:39,921 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 13:57:39,995 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 13:57:45,154 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 13:57:45,156 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:57:45,175 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:57:45,178 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 13:58:10,712 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 13:58:10,780 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Sale
+2018-03-28 13:58:37,953 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 13:58:55,093 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 13:59:09,208 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 13:59:09,212 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 13:59:22,427 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 13:59:22,458 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Reversal
+2018-03-28 14:00:09,259 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 14:00:09,261 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 14:00:09,277 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 14:00:09,288 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 14:00:18,513 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 14:00:18,539 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=999808714568151, CardExpiry=2109, CurrencyCode=404, Message=Answer code is not received, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Reversal
+2018-03-28 14:10:03,645 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 14:10:03,654 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 14:10:03,682 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:10:03,684 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 14:10:14,992 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 14:10:15,140 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 14:18:18,806 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 14:18:18,816 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 14:18:18,853 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:18:18,855 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 14:18:33,814 [INFO ] Ц Validating Sale Request's parameters
+2018-03-28 14:18:33,815 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 14:18:40,059 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 14:18:40,071 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:18:40,072 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 14:18:42,724 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=153464, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714571558, TransType=Sale
+2018-03-28 14:18:42,731 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 14:19:09,965 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 12  Bank2
+2018-03-28 14:19:09,973 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-03-28 14:19:10,003 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 14:19:10,009 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-03-28 14:19:19,758 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-03-28 14:19:19,787 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=153464, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714571558, TransType=Reversal
+2018-04-09 09:33:37,599 [INFO ] Ц Validating Sale Request's parameters
+2018-04-09 09:33:37,623 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-09 09:33:37,731 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:33:37,768 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-09 09:33:44,602 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-09 09:33:46,663 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-09 09:34:01,745 [INFO ] Ц Validating Sale Request's parameters
+2018-04-09 09:34:01,749 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-09 09:34:01,769 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:34:01,774 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-09 09:34:05,076 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-09 09:48:46,453 [INFO ] Ц Validating Sale Request's parameters
+2018-04-09 09:48:46,462 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-09 09:48:46,495 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:48:46,497 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-09 09:48:50,399 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-09 09:49:25,903 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 07:40:43,413 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 07:40:43,470 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 07:40:44,757 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:40:44,760 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 07:40:45,741 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 07:41:43,574 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 07:41:47,004 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 07:41:47,014 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 07:41:47,125 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:41:47,134 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 07:42:23,433 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 07:42:36,015 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 07:42:36,017 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 07:42:36,024 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:42:36,024 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 07:42:58,162 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 07:42:58,174 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813163856, TransType=Sale
+2018-04-18 07:43:13,071 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=473524, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814561563, TransType=Sale
+2018-04-18 07:44:05,268 [INFO ] Ц Validating Reversal Request's parameters Amount: 100,0,1,1  Transkey: 1  Bank2
+2018-04-18 07:44:05,286 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 07:44:30,957 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-04-18 07:44:30,973 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 07:44:30,973 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 07:44:30,973 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-18 07:44:43,294 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-18 07:44:58,612 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=473524, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814561563, TransType=Reversal
+2018-04-18 08:33:06,196 [INFO ] Ц Validating Reversal Request's parameters Amount: 100,0,1,1  Transkey: 1  Bank2
+2018-04-18 08:33:06,266 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 08:33:15,598 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 08:33:15,598 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 08:33:15,641 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 08:33:15,641 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 08:33:45,427 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 08:33:48,219 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813167034, TransType=Sale
+2018-04-18 08:33:55,645 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 08:33:55,660 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 08:33:55,683 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 08:33:55,686 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 08:34:20,272 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 08:34:20,616 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=474474, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814564776, TransType=Sale
+2018-04-18 08:34:54,752 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-04-18 08:34:54,768 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 08:34:54,768 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 08:34:54,768 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-18 08:35:02,288 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-18 08:35:02,686 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=474474, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814564776, TransType=Reversal
+2018-04-18 11:02:57,890 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-04-18 11:02:57,998 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 11:02:58,828 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 11:02:58,833 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-18 11:02:59,401 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-18 11:03:02,448 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-04-18 11:03:02,450 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 11:03:02,466 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 11:03:02,542 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-18 11:03:02,980 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-18 11:03:16,221 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-04-18 11:03:16,223 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-04-18 11:03:16,225 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-04-18 12:01:19,184 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:01:19,202 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:01:19,410 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:01:19,414 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:01:48,224 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:02:03,018 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813198267, TransType=Sale
+2018-04-18 12:04:41,590 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:04:41,601 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:04:41,708 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:04:41,711 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:04:59,297 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:05:15,070 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810814596258, TransType=Sale
+2018-04-18 12:06:15,333 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:06:17,647 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:06:17,675 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:06:17,677 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:06:31,352 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:13:49,285 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:13:52,488 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:13:52,532 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:13:52,535 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:13:54,259 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:14:00,018 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:14:04,761 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:14:06,709 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:14:06,731 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:14:06,733 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:14:07,666 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:14:10,014 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=984, CardExpiry=, CurrencyCode=404, Message=Ќет кода ответа, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:14:46,912 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:14:48,608 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:14:48,627 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:14:48,634 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:15:04,821 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:16:54,545 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813200503, TransType=Sale
+2018-04-18 12:18:56,564 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:19:02,842 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:19:02,906 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:19:02,910 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:19:14,760 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:20:16,306 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813201202, TransType=Sale
+2018-04-18 12:23:09,942 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:23:11,924 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:23:11,924 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:11,924 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:23:24,953 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:23:33,911 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:23:33,911 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:23:35,770 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:35,786 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:23:39,970 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 12:23:42,297 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:23:42,319 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:23:42,773 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=485095, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814599366, TransType=Sale
+2018-04-18 12:23:42,836 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:42,836 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 12:23:45,267 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 12:23:45,282 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:23:47,998 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:25:13,404 [INFO ] Ц Validating Reversal Request's parameters Amount: 100,0,1,1  Transkey: 1  Bank2
+2018-04-18 12:25:13,536 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 12:25:30,694 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-04-18 12:25:30,694 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 12:25:30,733 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 12:25:30,735 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-18 12:25:36,253 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-18 12:25:36,597 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=485095, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814599366, TransType=Reversal
+2018-04-18 13:03:15,308 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 13:03:17,510 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 13:03:21,101 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 13:03:21,102 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 13:03:33,178 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 13:03:38,514 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813208430, TransType=Sale
+2018-04-18 13:12:24,463 [INFO ] Ц Validating Sale Request's parameters
+2018-04-18 13:12:26,554 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-18 13:12:27,216 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 13:12:27,220 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-18 13:12:42,668 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-18 13:12:47,745 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00062180, RRN=810813209938, TransType=Sale
+2018-04-25 10:24:07,592 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:24:21,445 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:24:21,858 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:21,863 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:24:22,088 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:24:22,088 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:24:37,080 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:24:37,080 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:24:52,071 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:24:52,071 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:24:52,617 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:24:52,633 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:52,633 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:24:55,004 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:24:55,020 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=934529, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513023899, TransType=Sale
+2018-04-25 10:24:55,067 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:55,067 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:24:57,407 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:24:57,422 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:24:57,453 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:57,453 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:24:59,372 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:24:59,388 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:25:00,791 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:25:46,026 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 1  Bank2
+2018-04-25 10:26:02,431 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:26:18,290 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=2, RRN=
+2018-04-25 10:26:25,180 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:26:40,586 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:28:07,273 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:28:07,293 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:28:07,316 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:28:07,316 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:28:22,101 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:28:22,101 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:28:27,670 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:28:27,749 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:28:27,751 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:28:29,535 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:28:29,790 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=934757, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514421709, TransType=Sale
+2018-04-25 10:28:31,056 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:28:38,255 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 1  Bank2
+2018-04-25 10:28:43,886 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:28:43,973 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:28:43,981 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:29:13,386 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:30:40,006 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 1  Bank2
+2018-04-25 10:30:45,042 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:30:45,084 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:30:45,087 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:30:58,342 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:32:04,756 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 11  Bank2
+2018-04-25 10:32:13,227 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:32:13,249 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:32:13,252 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:32:26,742 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:33:27,924 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 11  Bank2
+2018-04-25 10:33:30,112 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:33:30,168 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:33:30,168 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:33:47,821 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:36:26,892 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 11  Bank2
+2018-04-25 10:36:32,468 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:36:32,521 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:36:32,524 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:36:49,009 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:41:27,032 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 16  Bank2
+2018-04-25 10:41:29,348 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:41:29,390 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:41:29,395 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:41:40,908 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:43:07,233 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:43:07,249 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:43:07,264 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:43:07,264 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:43:22,183 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 10:43:22,183 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:43:30,425 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:43:30,425 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:43:30,425 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 10:43:32,175 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 10:43:32,534 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=935750, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514424181, TransType=Sale
+2018-04-25 10:43:33,847 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:47:21,501 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 17  Bank2
+2018-04-25 10:47:23,919 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:47:23,972 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:47:23,977 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:47:36,969 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:47:53,427 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 17  Bank2
+2018-04-25 10:47:59,701 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:47:59,763 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:47:59,766 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:48:12,673 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 10:57:28,456 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 18  Bank2
+2018-04-25 10:57:30,617 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 10:57:30,670 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:57:30,672 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 10:57:49,565 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 11:02:37,482 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:02:37,497 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:02:37,591 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:02:37,599 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:02:52,320 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:02:52,326 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:02:56,798 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 11:02:56,818 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:02:56,832 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:03:00,019 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=937139, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513030210, TransType=Sale
+2018-04-25 11:03:00,382 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:04:50,231 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 18  Bank2
+2018-04-25 11:04:52,611 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:04:52,674 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:04:52,679 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 11:05:03,794 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 11:07:37,419 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:07:37,431 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:07:37,458 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:07:37,460 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:07:52,352 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:07:52,358 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:07:57,788 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 11:07:57,814 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:07:57,822 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:08:00,627 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 11:08:00,652 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:08:02,783 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=937523, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514428340, TransType=Sale
+2018-04-25 11:08:39,417 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 18  Bank2
+2018-04-25 11:08:47,627 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:08:50,188 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:08:50,196 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 11:09:05,094 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 11:11:18,128 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 18  Bank2
+2018-04-25 11:11:23,263 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:11:24,555 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:11:24,558 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 11:11:39,801 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 11:12:10,234 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=, AuthCode=937523, ResponseCode=218811514428340, CardExpiry=2109, CurrencyCode=404, Message=Ќет кода ответа, PAN=453179xxxxxx3122, TID=00739280, RRN=811514428340, TransType=Reversal
+2018-04-25 11:23:37,442 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:23:37,442 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:23:37,457 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:23:37,457 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:23:52,438 [INFO ] Ц Validating Sale Request's parameters
+2018-04-25 11:23:52,454 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:23:58,299 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 11:23:58,491 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:23:58,491 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-04-25 11:24:01,117 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-04-25 11:24:01,154 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=938758, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513033700, TransType=Sale
+2018-04-25 11:24:01,277 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:24:57,085 [INFO ] Ц Validating Reversal Request's parameters Amount: 1  Transkey: 18  Bank2
+2018-04-25 11:25:09,349 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-04-25 11:25:10,734 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:25:10,736 [INFO ] Ц Instantiating Arcus.dll and executing the Reversal Transaction
+2018-04-25 11:25:22,737 [INFO ] Ц Retrieving results from Arcus.dll Reversal Transaction
+2018-04-25 11:26:02,178 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=, AuthCode=938758, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513033700, TransType=Reversal
+2018-07-19 19:51:23,425 [INFO ] Ц Validating Sale Request's parameters
+2018-07-19 19:51:31,962 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-07-19 19:51:51,199 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:51:51,200 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-07-19 19:52:54,667 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-07-19 19:52:56,923 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=411, CardExpiry=0000, CurrencyCode=404, Message=ARCUS: »стек тайм-аут чтени€ карты , PAN=, TID=14150026, RRN=12234, TransType=Sale
+2018-07-19 19:55:11,784 [INFO ] Ц Validating Sale Request's parameters
+2018-07-19 19:55:14,688 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-07-19 19:55:16,521 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:55:16,522 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-07-19 19:55:50,795 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-07-19 19:56:09,003 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2107, CurrencyCode=404, Message=Ќ≈“ —¬я«» — ѕ»Ќ-ѕјƒќћ, PAN=418087xxxxxx2701, TID=14150026, RRN=12234, TransType=Sale
+2018-07-19 19:56:12,302 [INFO ] Ц Validating Sale Request's parameters
+2018-07-19 19:56:15,279 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-07-19 19:56:16,948 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:56:16,950 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-07-19 19:57:03,488 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-07-19 19:57:18,170 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=MBRNJU, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=”спешно, PAN=418087xxxxxx2701, TID=14150026, RRN=000321419267, TransType=Sale
+2018-10-17 18:38:12,317 [INFO ] Ц Validating Sale Request's parameters
+2018-10-17 18:38:16,659 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:38:19,438 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:38:19,442 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-10-17 18:38:48,835 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-10-17 18:38:56,859 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2109, CurrencyCode=404, Message=Ќеверна€ сумма, PAN=453179xxxxxx3122, TID=00803410, RRN=829014468564, TransType=Sale
+2018-10-17 18:39:25,172 [INFO ] Ц Validating Sale Request's parameters
+2018-10-17 18:39:26,930 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:39:32,108 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:39:32,110 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-10-17 18:39:54,360 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-10-17 18:39:58,754 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865340, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829014468815, TransType=Sale
+2018-10-17 18:40:45,171 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-10-17 18:40:57,304 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:42:58,580 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:44:10,385 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-10-17 18:44:12,522 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:44:32,652 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:45:18,420 [INFO ] Ц Validating Sale Request's parameters
+2018-10-17 18:45:20,573 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:45:21,431 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:45:21,432 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-10-17 18:45:42,735 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-10-17 18:45:45,934 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865740, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829013145513, TransType=Sale
+2018-10-17 18:47:06,152 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-10-17 18:47:08,115 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:47:26,827 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:48:19,025 [INFO ] Ц Validating Sale Request's parameters
+2018-10-17 18:48:22,231 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2018-10-17 18:48:23,202 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:48:23,205 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-10-17 18:48:43,272 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-10-17 18:48:48,611 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865966, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829013146312, TransType=Sale
+2018-10-17 18:49:28,559 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank2
+2018-10-17 18:49:33,140 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:28:14,684 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:28:14,744 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:28:15,022 [ERROR] Ц Object reference not set to an instance of an object.
+2019-12-17 23:31:36,202 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:31:36,204 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:31:36,277 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:31:36,281 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:31:52,289 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:31:57,666 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:32:15,005 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:32:15,007 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:32:15,026 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:32:15,029 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:32:15,470 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:32:15,773 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:37:45,514 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:37:45,519 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:37:45,539 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:37:45,541 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:37:46,795 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:37:49,071 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:37:57,000 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:37:57,002 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:37:57,011 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:37:57,012 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:37:57,674 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:37:57,958 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:19,936 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:38:19,938 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:38:19,950 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:19,951 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:38:23,580 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:38:23,589 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:46,697 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:38:46,699 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:38:46,709 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:46,711 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:38:47,255 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:38:47,560 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:55,304 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:38:55,308 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:38:55,317 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:55,319 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:38:55,808 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:38:56,108 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:41:07,324 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:41:07,854 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:41:08,134 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:41:08,136 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:41:21,231 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:41:21,244 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:41:25,567 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:41:25,570 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:41:25,577 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:41:25,579 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:41:31,531 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:41:31,541 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:42:06,141 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:42:06,144 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:42:06,155 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:42:06,157 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:42:09,217 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:42:09,935 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:42:53,951 [INFO ] Ц Validating Sale Request's parameters
+2019-12-17 23:42:53,953 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2019-12-17 23:42:53,960 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:42:53,962 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2019-12-17 23:42:57,980 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2019-12-17 23:42:57,990 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:04:15,843 [INFO ] Ц Validating Sale Request's parameters
+2020-08-05 02:04:16,217 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-05 02:04:17,614 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:04:17,635 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-05 02:04:20,013 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-05 02:04:20,039 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:04:33,996 [INFO ] Ц Validating Sale Request's parameters
+2020-08-05 02:04:34,017 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-05 02:04:34,041 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:04:34,053 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-05 02:04:34,523 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-05 02:04:34,548 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:05:56,815 [INFO ] Ц Validating Sale Request's parameters
+2020-08-05 02:05:57,039 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-05 02:05:57,096 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:05:57,111 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-05 02:06:37,266 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-05 02:06:37,324 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962380, TransType=Sale
+2020-08-05 02:06:58,212 [INFO ] Ц Validating Sale Request's parameters
+2020-08-05 02:06:58,243 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-05 02:06:58,271 [INFO ] Ц REQ.SALE. Arcus Request: Amount=10, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:06:58,282 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-05 02:07:30,084 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-05 02:07:30,107 [INFO ] Ц RES.SALE. Arcus Response: Amount=10, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962445, TransType=Sale
+2020-08-05 02:08:15,536 [INFO ] Ц Validating Sale Request's parameters
+2020-08-05 02:08:15,576 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-05 02:08:15,601 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:08:15,612 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-05 02:08:34,704 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-05 02:08:34,734 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=353043, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962546, TransType=Sale
+2020-08-19 23:40:15,032 [INFO ] Ц Validating Sale Request's parameters
+2020-08-19 23:40:15,425 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:40:15,891 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-19 23:40:15,901 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-19 23:40:22,384 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-19 23:40:22,408 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-19 23:42:35,937 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:42:35,951 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:43:19,712 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:43:19,747 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:45:49,702 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:45:49,746 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:47:39,673 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:47:39,701 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:56:46,071 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:56:46,092 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:57:42,491 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:57:42,517 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-19 23:58:43,391 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-19 23:58:43,417 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:01:26,291 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:01:28,689 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:02:33,184 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:02:48,599 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:05:24,539 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:05:30,054 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:08:11,818 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:08:20,737 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:09:25,294 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:09:27,640 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 00:12:31,745 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 00:12:33,655 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:04:25,642 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:04:26,204 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:04:26,335 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 11:04:26,378 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:04:29,119 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:04:29,181 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:04:34,825 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:04:34,872 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 11:04:34,892 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 11:04:34,906 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:04:40,253 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:04:40,314 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 11:05:09,112 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:05:09,195 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:05:09,283 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=3
+2020-08-20 11:05:09,320 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:05:14,044 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:05:14,101 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=077, CardExpiry=0000, CurrencyCode=404, Message=Operation is impossible., PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:05:18,370 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:05:18,407 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:05:18,434 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=3
+2020-08-20 11:05:18,445 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:05:22,353 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:05:22,392 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=077, CardExpiry=0000, CurrencyCode=404, Message=Operation is impossible., PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:08:17,873 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:08:18,129 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:08:18,262 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:08:18,301 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:11:18,586 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:11:18,640 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:15:07,733 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:15:07,947 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:15:08,090 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=6
+2020-08-20 11:15:08,123 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:15:11,229 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:15:11,294 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:15:22,544 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:15:22,578 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:15:22,610 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=6
+2020-08-20 11:15:22,626 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:15:24,981 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:15:25,040 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:17:55,040 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:17:55,240 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:17:55,374 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:17:55,416 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:17:55,659 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:17:55,692 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:18:07,958 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:18:07,989 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:18:08,022 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:18:08,035 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:18:08,101 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:18:08,135 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:18:18,780 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:18:18,812 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:18:18,850 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:18:18,879 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:18:19,032 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:18:19,079 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:04,245 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:31:04,281 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:31:04,343 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:04,377 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:31:04,553 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:31:04,774 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:10,215 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:31:10,250 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:31:10,302 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:10,336 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:31:10,540 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:31:10,581 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:21,398 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:31:21,424 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:31:21,455 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:21,476 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:31:21,633 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:31:21,671 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:44:25,987 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:44:26,082 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:44:26,129 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:44:26,161 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:44:26,483 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:44:26,533 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:46:12,599 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:46:12,693 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:46:12,760 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:46:12,772 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:46:12,877 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:46:12,927 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:47:29,433 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:47:29,455 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:47:29,477 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:47:29,484 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:47:29,535 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:47:29,560 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:50:23,572 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:50:23,600 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:50:23,677 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:50:23,685 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:50:23,791 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:50:23,819 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:50:41,929 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:50:41,951 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:50:41,971 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:50:41,978 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:50:42,033 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:50:42,054 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:51:21,263 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:51:21,314 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:51:21,341 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:51:21,349 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:51:35,546 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:51:35,567 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:55:45,807 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 11:55:45,874 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 11:55:45,892 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:55:45,901 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 11:55:54,940 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 11:55:54,965 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:08:31,541 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:08:31,569 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:08:31,588 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:08:31,595 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:08:40,671 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:08:40,696 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:21:54,604 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:21:54,641 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:21:54,660 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:21:54,668 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:22:04,130 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:22:04,153 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:22:07,826 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:22:07,845 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:22:07,864 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:22:07,872 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:22:16,888 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:22:16,918 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:25:47,825 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:25:47,860 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:25:47,900 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:25:47,918 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:25:57,187 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:35:41,239 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:35:41,361 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:35:41,391 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:35:41,399 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:35:45,061 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 12:35:45,101 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 12:35:50,627 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:38:01,434 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:38:01,455 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 12:38:01,468 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:38:10,703 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 12:38:36,566 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 20:18:50,452 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 20:18:50,882 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 20:18:52,147 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 20:18:52,154 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 20:18:56,397 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 20:18:56,414 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 20:19:03,170 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 20:21:46,235 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 20:36:29,435 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 20:37:17,741 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 21:33:12,687 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:33:12,697 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:46:22,296 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:46:22,307 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:46:38,502 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:46:38,510 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:52:17,608 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:52:17,626 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:52:27,451 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:52:27,461 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:53:15,135 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:53:15,146 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 21:54:53,947 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 21:54:53,956 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:13:20,054 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:13:20,222 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:13:20,251 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:13:20,260 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:13:24,253 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:13:24,273 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:19:04,533 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:19:04,703 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:19:04,739 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:19:04,748 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:19:08,465 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:19:08,492 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:19:49,728 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:19:49,740 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:23:40,783 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:23:40,803 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:24:34,237 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:24:34,246 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:24:45,968 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:24:45,977 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:24:59,885 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:24:59,894 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:26:34,149 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:26:34,161 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:28:39,265 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:28:39,286 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:29:33,431 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:29:33,446 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:31:54,138 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:31:54,149 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:32:56,922 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:32:56,935 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:35:50,364 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:35:50,373 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:39:16,720 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:39:16,729 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:41:41,140 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:41:41,159 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:45:29,518 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:45:29,528 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:46:15,188 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 22:46:40,260 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 22:46:40,268 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:47:35,296 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:47:35,446 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:47:35,465 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:47:35,474 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:47:39,306 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:47:39,334 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:48:59,976 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:49:00,161 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:49:00,223 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:49:00,237 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:49:03,391 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:49:03,428 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:51:13,032 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:51:13,197 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:51:13,228 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:51:13,236 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:51:16,541 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:51:27,632 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:57:06,007 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 22:57:06,187 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 22:57:06,233 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:57:06,245 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 22:57:40,228 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 22:57:49,081 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000663031279, TransType=Sale
+2020-08-20 23:00:29,540 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 23:00:29,684 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:00:29,719 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:00:29,728 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 23:00:51,395 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 23:00:51,413 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=283807, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663031569, TransType=Sale
+2020-08-20 23:22:37,874 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 23:23:38,098 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:35:52,016 [INFO ] Ц Validating echotest Request's parameters
+2020-08-20 23:49:59,622 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 23:50:09,499 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:53:56,208 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 23:53:56,372 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:53:56,567 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:53:56,601 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 23:54:02,958 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 23:54:02,978 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:55:03,787 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-20 23:55:03,835 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:55:47,821 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 23:55:47,843 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:55:47,861 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:55:47,869 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 23:55:51,365 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 23:55:51,396 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:56:19,764 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 23:56:19,847 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:56:19,873 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:56:19,880 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 23:56:34,177 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 23:56:34,204 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=250, CardExpiry=0000, CurrencyCode=404, Message=пњљпњљпњљ пњљпњљпњљпњљ пњљпњљпњљпњљпњљпњљ, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:56:42,667 [INFO ] Ц Validating Sale Request's parameters
+2020-08-20 23:56:42,688 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-20 23:56:42,715 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:56:42,723 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-20 23:57:10,353 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-20 23:57:10,383 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=284481, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663035575, TransType=Sale
+2020-08-21 00:05:49,313 [INFO ] Ц Validating Reversal Request's parameters Amount: 0  Transkey:   Bank1
+2020-08-21 00:05:49,393 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 17:50:56,726 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 17:50:57,250 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 17:51:11,299 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 17:51:11,336 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 17:52:13,750 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 17:53:44,103 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 17:54:19,815 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 17:54:21,174 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 17:57:14,806 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 17:57:16,131 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:01:55,742 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:01:57,262 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:05:14,031 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:05:15,565 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:06:33,639 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 18:06:36,320 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:06:36,411 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:06:36,442 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 18:06:47,073 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 18:06:47,120 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 18:07:37,565 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:07:39,426 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:09:45,430 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:09:46,740 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:10:50,089 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:10:51,533 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:13:25,049 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:13:26,662 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:14:01,968 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:14:02,901 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:19:36,768 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 18:23:01,286 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 18:23:01,541 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:23:01,655 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:23:01,677 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 18:29:56,130 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 18:29:56,192 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=005, CardExpiry=2104, CurrencyCode=404, Message=Non-payment, PAN=453177xxxxxx6488, TID=14150026, RRN=000001000005, TransType=Sale
+2020-08-21 18:49:26,861 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 18:49:27,292 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:49:27,356 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:49:27,393 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 18:49:54,861 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 18:49:54,901 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2104, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=453177xxxxxx6488, TID=14150026, RRN=, TransType=Sale
+2020-08-21 18:50:17,479 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:50:17,570 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 18:50:43,002 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 18:50:43,037 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:00:24,505 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:00:24,557 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:00:24,598 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:00:24,611 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:00:42,964 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:00:43,002 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2104, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=453177xxxxxx6488, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:25:11,922 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:25:12,084 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:25:37,351 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:25:37,392 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:25:37,432 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:25:37,451 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:25:44,370 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:25:44,408 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:26:03,844 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:26:03,883 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:26:03,929 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:26:03,951 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:26:36,634 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:26:36,686 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=094, CardExpiry=2104, CurrencyCode=404, Message=Double transfer, PAN=453177xxxxxx6488, TID=14150026, RRN=000663035575, TransType=Sale
+2020-08-21 19:27:20,290 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:27:20,466 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:27:20,522 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:27:20,540 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:27:51,567 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:27:51,607 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=357365, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663389934, TransType=Sale
+2020-08-21 19:28:09,616 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:28:09,686 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:28:22,318 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:28:22,354 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:31:28,638 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:31:28,878 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:31:36,506 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:31:36,541 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:33:09,673 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:33:09,955 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:33:33,565 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:33:33,628 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:33:33,678 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:33:33,698 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:33:37,318 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:33:37,353 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:33:44,039 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:33:44,093 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:33:44,150 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:33:44,162 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:34:05,590 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:34:05,652 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=357845, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663391872, TransType=Sale
+2020-08-21 19:34:32,283 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:34:32,316 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:34:43,135 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:34:43,171 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:34:55,196 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:34:55,232 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:38:45,391 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:38:45,540 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:39:06,672 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:39:06,697 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:40:22,864 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:40:23,006 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:40:59,417 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:40:59,454 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:41:18,460 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:41:18,485 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:41:59,961 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:41:59,993 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:42:00,021 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:42:00,031 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:42:03,510 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:42:03,542 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:42:10,628 [INFO ] Ц Validating Sale Request's parameters
+2020-08-21 19:42:10,651 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:42:10,675 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:42:10,685 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-08-21 19:42:35,048 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-08-21 19:42:35,074 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=358497, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663394336, TransType=Sale
+2020-08-21 19:45:36,084 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 1  Bank1
+2020-08-21 19:45:36,256 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:45:49,114 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 000663394336  Bank1
+2020-08-21 19:45:49,140 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:45:56,209 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 000663394336  Bank1
+2020-08-21 19:45:56,232 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-08-21 19:46:27,595 [INFO ] Ц Validating Reversal Request's parameters Amount: 100  Transkey: 000663394336  Bank1
+2020-08-21 19:46:27,626 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-10-25 12:17:20,209 [INFO ] Ц Validating Sale Request's parameters
+2020-10-25 12:17:20,444 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2020-10-25 12:17:20,602 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-10-25 12:17:20,641 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2020-10-25 12:17:21,838 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2020-10-25 12:17:21,868 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 11:17:09,137 [INFO ] Ц Validating Sale Request's parameters
+2021-03-13 11:17:09,623 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2021-03-13 11:17:09,782 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 11:17:09,791 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2021-03-13 11:17:13,258 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2021-03-13 11:17:13,276 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:43:20,852 [INFO ] Ц Validating Sale Request's parameters
+2021-03-13 13:43:21,088 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2021-03-13 13:43:21,141 [INFO ] Ц REQ.SALE. Arcus Request: Amount=2, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:43:21,197 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2021-03-13 13:43:29,837 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2021-03-13 13:43:29,856 [INFO ] Ц RES.SALE. Arcus Response: Amount=2, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:43:53,462 [INFO ] Ц Validating Sale Request's parameters
+2021-03-13 13:43:53,474 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2021-03-13 13:43:53,482 [INFO ] Ц REQ.SALE. Arcus Request: Amount=200, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:43:53,484 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2021-03-13 13:44:01,033 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2021-03-13 13:44:01,053 [INFO ] Ц RES.SALE. Arcus Response: Amount=200, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:44:26,845 [INFO ] Ц Validating Sale Request's parameters
+2021-03-13 13:44:26,859 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2021-03-13 13:44:26,868 [INFO ] Ц REQ.SALE. Arcus Request: Amount=228, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:44:26,870 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2021-03-13 13:44:34,805 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2021-03-13 13:44:34,817 [INFO ] Ц RES.SALE. Arcus Response: Amount=228, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-11-08 02:41:55,137 [ERROR] Ц The remote server returned an error: (400) Bad Request.
+2021-11-08 02:43:14,400 [ERROR] Ц The remote server returned an error: (400) Bad Request.
+2021-11-09 10:00:22,326 [ERROR] Ц The remote server returned an error: (400) Bad Request.
+2021-11-09 23:38:45,041 [ERROR] Ц The remote server returned an error: (400) Bad Request.
+2021-11-12 09:47:11,046 [ERROR] Ц The remote server returned an error: (400) Bad Request.
+2021-11-12 17:59:17,483 [INFO ] Ц Validating echotest Request's parameters
+2022-06-22 22:58:52,707 [INFO ] Ц Validating Sale Request's parameters
+2022-06-22 22:58:52,901 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2022-06-22 22:58:52,977 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 22:58:53,023 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2022-06-22 22:58:55,890 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2022-06-22 22:58:55,905 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2022-06-22 23:02:58,067 [INFO ] Ц Validating Sale Request's parameters
+2022-06-22 23:02:58,171 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2022-06-22 23:02:58,186 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 23:02:58,188 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2022-06-22 23:03:10,815 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2022-06-22 23:03:10,835 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2022-06-22 23:03:25,402 [INFO ] Ц Validating Sale Request's parameters
+2022-06-22 23:03:25,417 [INFO ] Ц Instantiating Arcus.dll's Request & Response objects
+2022-06-22 23:03:25,426 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 23:03:25,427 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2022-06-22 23:03:37,339 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2022-06-22 23:03:37,352 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale

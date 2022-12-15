@@ -1,0 +1,278 @@
+2016-07-07 20:59:36,340 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 29
+2016-07-07 22:28:10,551 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 29
+2016-07-07 22:30:20,200 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 29
+2016-07-08 00:06:00,617 [ERROR] – Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue() in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\JsonTextReader.cs:line 1638
+   at Newtonsoft.Json.JsonTextReader.Read() in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\JsonTextReader.cs:line 381
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 367
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-08 00:22:46,329 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 29
+2016-07-08 00:24:03,841 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 29
+2016-07-08 01:05:11,163 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 38
+2016-07-08 23:45:07,896 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-08 23:45:36,797 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-08 23:46:07,809 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-08 23:47:15,608 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-08 23:50:00,844 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 46
+2016-07-08 23:50:17,889 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-09 00:19:42,327 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-09 08:07:30,210 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-09 08:10:04,854 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-09 09:56:17,933 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-11 20:14:34,006 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-11 20:16:41,050 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-11 20:36:17,308 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-11 20:49:03,385 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-11 21:04:39,666 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 07:02:30,502 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 07:02:55,285 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 07:03:12,670 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 07:03:44,875 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:39:27,546 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:39:48,492 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:47:51,466 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:51:30,620 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:52:14,780 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-12 22:52:26,792 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-13 16:18:10,367 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-13 16:21:11,068 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 15:54:19,091 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 69
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 15:55:24,849 [ERROR] – System.ArgumentNullException: Value cannot be null.
+Parameter name: text
+   at System.IO.Ports.SerialPort.Write(String text)
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 72
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 16:05:47,778 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 16:06:33,584 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 16:09:18,603 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-14 16:30:51,597 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-15 13:00:49,668 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-15 13:01:13,058 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 98
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 77
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-15 14:29:52,266 [ERROR] – System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.DiscardInBuffer()
+   at feft_uba.PinpadHandler.getEftTransactionData(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 99
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 78
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-07-15 14:39:01,535 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at feft_uba.PinpadHandler.sendEftRequest(Int64 amount) in D:\fortified benture\Developments\FEFTWsvc\Feft_uba\feft-uba\PinpadHandler.cs:line 81
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc\FEFTHelper\Uba.cs:line 32
+2016-08-11 11:35:51,885 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 132
+2016-08-11 11:36:01,842 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 132
+2017-06-21 10:31:41,228 [ERROR] – System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 64
+2017-06-21 10:34:11,499 [ERROR] – System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 64
+2017-06-22 14:00:17,811 [ERROR] – System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 64
+2017-06-27 17:57:50,866 [ERROR] – System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Uba.cs:line 64
+2021-03-13 11:35:30,156 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\Uba.cs:line 55
+2021-03-13 11:35:53,484 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\Uba.cs:line 55
+2021-03-13 11:36:41,811 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\Uba.cs:line 55
+2021-03-13 11:37:52,428 [ERROR] – System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FEFTHelper.Uba.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\Uba.cs:line 55

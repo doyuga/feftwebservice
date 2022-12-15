@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FEFTService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://127.0.0.1:6701/feft?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://127.0.0.1:6701/feft?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://127.0.0.1:6701/feft?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/FEFTRest" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IFEFTService_sale_InputMessage">
+    <wsdl:part name="parameters" element="tns:sale" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_sale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:saleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_reversal_InputMessage">
+    <wsdl:part name="parameters" element="tns:reversal" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_reversal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:reversalResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_execSale_InputMessage">
+    <wsdl:part name="parameters" element="tns:execSale" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_execSale_OutputMessage">
+    <wsdl:part name="parameters" element="tns:execSaleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_execReversal_InputMessage">
+    <wsdl:part name="parameters" element="tns:execReversal" />
+  </wsdl:message>
+  <wsdl:message name="IFEFTService_execReversal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:execReversalResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IFEFTService">
+    <wsdl:operation name="sale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFEFTService/sale" message="tns:IFEFTService_sale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFEFTService/saleResponse" message="tns:IFEFTService_sale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="reversal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFEFTService/reversal" message="tns:IFEFTService_reversal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFEFTService/reversalResponse" message="tns:IFEFTService_reversal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="execSale">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFEFTService/execSale" message="tns:IFEFTService_execSale_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFEFTService/execSaleResponse" message="tns:IFEFTService_execSale_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="execReversal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IFEFTService/execReversal" message="tns:IFEFTService_execReversal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IFEFTService/execReversalResponse" message="tns:IFEFTService_execReversal_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="FEFTService" />
+</wsdl:definitions>

@@ -1,0 +1,523 @@
+2015-02-17 09:52:39,933 [INFO ] – Validating Sale Request's parameters
+2015-02-17 09:52:45,536 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-17 09:52:50,446 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-17 09:52:53,315 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-02-17 09:52:57,170 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-02-17 09:53:02,014 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-17 09:54:01,617 [INFO ] – Validating Sale Request's parameters
+2015-02-17 09:54:05,092 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-17 09:54:09,914 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-17 09:54:11,505 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-02-17 09:54:16,370 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-02-17 09:54:16,988 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:58:33,906 [INFO ] – Validating Sale Request's parameters
+2015-02-19 12:58:33,961 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-19 12:58:34,174 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-19 12:58:34,179 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-02-19 12:58:41,896 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-02-19 12:58:41,922 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:58:53,730 [INFO ] – Validating Sale Request's parameters
+2015-02-19 12:58:53,735 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-19 12:58:53,755 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-19 12:58:53,760 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-02-19 12:58:54,720 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-02-19 12:58:54,740 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:59:34,992 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 1  Bank2
+2015-02-19 12:59:35,001 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-19 12:59:35,028 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=1
+2015-02-19 12:59:35,033 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-02-19 12:59:35,171 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-02-19 12:59:35,204 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-02-19 13:00:53,369 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 1  Bank2
+2015-02-19 13:01:20,872 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-02-19 13:02:23,253 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=1
+2015-02-19 13:02:39,221 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-02-19 13:03:20,616 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-02-19 13:04:03,743 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-01 19:10:38,337 [INFO ] – Validating Sale Request's parameters
+2015-03-01 19:10:38,406 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-01 19:10:38,661 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-01 19:10:38,667 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-01 19:10:44,912 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-01 19:10:44,935 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-01 22:05:13,927 [INFO ] – Validating Sale Request's parameters
+2015-03-01 22:05:13,992 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-01 22:05:14,139 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-01 22:05:14,143 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-01 22:05:15,333 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-01 22:05:15,359 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-05 04:33:34,795 [INFO ] – Validating Sale Request's parameters
+2015-03-05 04:33:37,134 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-05 04:33:38,224 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:33:38,228 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-05 04:33:41,591 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-05 04:33:41,609 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-05 04:34:03,299 [INFO ] – Validating Sale Request's parameters
+2015-03-05 04:34:03,311 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-05 04:34:03,526 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:34:03,536 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-05 04:34:08,597 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-05 04:34:24,851 [INFO ] – Validating Sale Request's parameters
+2015-03-05 04:34:24,861 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-05 04:34:25,019 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:34:25,030 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-05 04:34:26,604 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-05 04:34:26,675 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 12:18:31,998 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:18:32,054 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:18:32,338 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:18:32,343 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:18:32,965 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 12:18:47,437 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:18:47,444 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:18:47,467 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:18:47,471 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:18:47,482 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 12:19:04,132 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:19:04,138 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:19:04,171 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:19:04,178 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:19:18,619 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:19:18,638 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501429105, TransType=Sale
+2015-03-06 12:20:15,881 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:20:15,887 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:20:15,943 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:20:15,948 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:20:32,096 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:20:32,126 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=122347, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501429918, TransType=Sale
+2015-03-06 12:24:20,077 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:24:20,082 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:24:20,106 [INFO ] – REQ.SALE. Arcus Request: Amount=0, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:24:20,111 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:24:39,116 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:24:39,150 [INFO ] – RES.SALE. Arcus Response: Amount=0, Cashback=100, AuthCode=, ResponseCode=203, CardExpiry=1801, CurrencyCode=404, Message=Refusal of sum input, PAN=379996xxxxxx315F, TID=00066724, RRN=, TransType=Sale
+2015-03-06 12:24:56,546 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:24:56,551 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:24:56,656 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:24:56,664 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:25:13,849 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:25:13,871 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=128547, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501433436, TransType=Sale
+2015-03-06 12:29:07,926 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:29:07,930 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:29:07,956 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:29:07,961 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:30:32,545 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:30:32,564 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=134113, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501436592, TransType=Sale
+2015-03-06 12:32:12,243 [INFO ] – Validating Sale Request's parameters
+2015-03-06 12:32:12,254 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 12:32:12,284 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:32:12,289 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 12:34:04,862 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 12:34:04,900 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=138606, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501439210, TransType=Sale
+2015-03-06 13:02:47,730 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:02:48,017 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:02:48,605 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:02:48,613 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:03:06,784 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:03:06,804 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=177172, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501461294, TransType=Sale
+2015-03-06 13:03:31,019 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:03:31,024 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:03:31,057 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:03:31,062 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:03:44,524 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:03:44,544 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=65, CardExpiry=1801, CurrencyCode=404, Message=The limit of operations is exceeded, PAN=379996xxxxxx315F, TID=00066724, RRN=506501461825, TransType=Sale
+2015-03-06 13:04:31,860 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:04:31,864 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:04:31,884 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:04:31,890 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:05:01,000 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:05:01,025 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=05, CardExpiry=1708, CurrencyCode=404, Message=Non-payment, PAN=519601xxxxxx0960, TID=00066724, RRN=, TransType=Sale
+2015-03-06 13:09:35,624 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:09:35,629 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:09:35,657 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:09:35,661 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:09:36,651 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 13:10:02,729 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:10:02,733 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:10:02,753 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:10:02,759 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:10:31,096 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:10:31,132 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 13:11:39,695 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:11:39,700 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:11:39,723 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:11:39,727 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:11:44,526 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:11:44,558 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 13:42:23,217 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:42:23,222 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:42:23,307 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:42:23,314 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:42:41,293 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:42:41,312 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501490148, TransType=Sale
+2015-03-06 13:57:31,156 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:57:31,160 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:57:31,193 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:57:31,197 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:57:48,304 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:57:48,335 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501501047, TransType=Sale
+2015-03-06 13:59:01,481 [INFO ] – Validating Sale Request's parameters
+2015-03-06 13:59:01,488 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 13:59:01,514 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:59:01,519 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 13:59:28,055 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 13:59:28,108 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Sale
+2015-03-06 14:00:01,874 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:00:01,887 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:00:01,917 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:01,921 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:00:02,435 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:00:02,464 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:14,652 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:00:14,657 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:00:14,684 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:14,689 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:00:14,903 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:00:14,924 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:26,832 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:00:26,837 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:00:26,860 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:26,866 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:00:27,069 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:00:27,102 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:44,125 [INFO ] – Validating Reversal Request's parameters Amount: 1,1,1  Transkey: 506501502232  Bank2
+2015-03-06 14:00:44,373 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,1,1
+2015-03-06 14:00:52,804 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:00:52,937 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:00:52,977 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:52,982 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:00:53,343 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:00:53,375 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:01:26,089 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:01:26,093 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:01:26,131 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:01:26,135 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:01:26,327 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:01:26,354 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:05:23,969 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:05:23,974 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:05:24,013 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:05:24,019 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:05:25,067 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:05:25,090 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:07:01,120 [INFO ] – Validating Reversal Request's parameters Amount: 1,0,1  Transkey: 1  Bank2
+2015-03-06 14:07:01,132 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,0,1
+2015-03-06 14:07:13,253 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:07:13,259 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:07:13,285 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:07:13,290 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:07:16,945 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:07:16,977 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:18:09,901 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:18:09,920 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:18:09,951 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:18:09,956 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:18:58,384 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:18:58,394 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:18:58,737 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:18:59,144 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:19:02,124 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:19:13,855 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:19:15,159 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:19:15,164 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:19:15,187 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:19:15,194 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:19:21,212 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:19:21,219 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:19:21,488 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:19:21,494 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:19:21,553 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:19:31,077 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:20:22,427 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:21:50,099 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:21:50,125 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:21:50,160 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:21:50,165 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:21:59,741 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:21:59,777 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:24:44,835 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:24:44,839 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:24:44,855 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:24:44,860 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:26:30,179 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:26:30,202 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:26:30,247 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:26:30,254 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:26:42,689 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:26:42,724 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:28:26,718 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:28:26,787 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:28:26,820 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:28:26,826 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:28:40,413 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:28:40,460 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:29:01,445 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:29:01,460 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:29:01,477 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:29:01,481 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:29:12,497 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:30:32,429 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:31:48,769 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:31:48,790 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:31:48,822 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:31:48,827 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:31:55,761 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:31:55,784 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:32:18,602 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:32:18,608 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:32:18,625 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:32:18,632 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:32:27,426 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:32:45,710 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:34:41,440 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:34:41,467 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:34:41,495 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:34:41,500 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:34:48,948 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:34:48,997 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:35:15,155 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:35:15,170 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:35:15,191 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:35:15,196 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:35:27,143 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:35:27,175 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:35:37,224 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:35:37,229 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:35:37,249 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:35:37,259 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:35:47,174 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:37:02,530 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:37:42,908 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:37:42,939 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:37:42,975 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:37:42,982 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:37:52,403 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:37:52,428 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:38:15,986 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:38:15,995 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:38:16,013 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:38:16,018 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:38:17,401 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:38:35,118 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:38:35,150 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:38:35,175 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:38:35,179 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:38:43,644 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:38:43,669 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:39:49,585 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:39:49,610 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:39:49,805 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:39:49,815 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:39:51,890 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:39:52,102 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:39:57,976 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:39:57,986 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:39:58,008 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:39:58,017 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:40:00,576 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:40:00,607 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:08,862 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:40:08,871 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:40:08,897 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=400, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:08,903 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:40:11,217 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:40:11,244 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=400, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:24,578 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:40:24,583 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:40:24,614 [INFO ] – REQ.SALE. Arcus Request: Amount=500, Cashback=400, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:24,618 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:40:27,407 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:40:27,425 [INFO ] – RES.SALE. Arcus Response: Amount=500, Cashback=400, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:55,643 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:40:55,647 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:40:55,670 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:55,678 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:41:45,768 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:41:45,807 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Sale
+2015-03-06 14:47:57,868 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 14:47:57,875 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:47:57,913 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:47:57,918 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:47:58,069 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:47:58,090 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:12,071 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 14:48:12,077 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:48:12,095 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:48:12,103 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:48:12,382 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:48:12,404 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:29,978 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: "506501531984"  Bank2
+2015-03-06 14:48:29,983 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:48:30,039 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN="50650153198
+2015-03-06 14:48:30,042 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:48:30,431 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:48:30,449 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:59,251 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 14:48:59,256 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:48:59,280 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:48:59,285 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:48:59,456 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:48:59,491 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:50:26,919 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 14:50:26,943 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:50:27,170 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:50:27,180 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 14:50:27,590 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 14:50:27,758 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 14:51:04,653 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:51:04,668 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:51:04,746 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:51:04,750 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:51:09,289 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:51:09,314 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:53:21,073 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:53:21,082 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:53:21,109 [INFO ] – REQ.SALE. Arcus Request: Amount=700, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:53:21,115 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:53:27,959 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:53:27,997 [INFO ] – RES.SALE. Arcus Response: Amount=700, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:53:40,566 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:53:40,570 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:53:40,593 [INFO ] – REQ.SALE. Arcus Request: Amount=700, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:53:40,599 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:53:54,895 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:53:54,921 [INFO ] – RES.SALE. Arcus Response: Amount=700, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:59:09,331 [INFO ] – Validating Sale Request's parameters
+2015-03-06 14:59:09,370 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 14:59:09,407 [INFO ] – REQ.SALE. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:59:09,413 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-06 14:59:29,039 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-06 14:59:29,062 [INFO ] – RES.SALE. Arcus Response: Amount=300, Cashback=0, AuthCode=259535, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501544645, TransType=Sale
+2015-03-06 15:00:57,750 [INFO ] – Validating Reversal Request's parameters Amount: 3  Transkey: 506501544645  Bank2
+2015-03-06 15:00:57,761 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:00:57,782 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:00:57,788 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:00:58,770 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:00:58,789 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=259535, ResponseCode=999506501544645, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501544645, TransType=Reversal
+2015-03-06 15:02:44,024 [INFO ] – Validating Reversal Request's parameters Amount: 3  Transkey: 506501544645  Bank2
+2015-03-06 15:03:13,906 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:04:29,753 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:04:34,353 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:05:04,945 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:05:04,983 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:07:49,625 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:07:53,268 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:07:53,311 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:07:53,316 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:07:55,911 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:07:55,944 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:08:11,160 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:08:11,165 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:08:11,182 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:08:11,187 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:08:13,856 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:08:13,885 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:08:18,418 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:08:18,423 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:08:18,441 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:08:18,446 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:08:20,169 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:08:20,195 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:09:02,455 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:09:02,462 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:09:02,480 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:09:02,485 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:09:05,983 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:09:06,001 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:11:37,071 [INFO ] – Validating Reversal Request's parameters Amount: 3  Transkey: 506501544645  Bank2
+2015-03-06 15:11:37,076 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:11:37,093 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:11:37,097 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:11:39,819 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:11:39,840 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:16:02,562 [INFO ] – Validating Reversal Request's parameters Amount: 3  Transkey: 506501544645  Bank2
+2015-03-06 15:16:02,567 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:16:02,584 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:16:02,589 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:16:07,642 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501544645, TransType=
+2015-03-06 15:16:27,075 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:16:27,093 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:16:27,123 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:16:27,128 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:16:28,878 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:16:28,919 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:16:41,158 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:16:41,171 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:16:41,189 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:16:41,194 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:16:43,257 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:16:43,276 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:17:29,283 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:17:29,288 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:17:29,311 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:17:29,316 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:17:32,660 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:17:32,687 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:20:44,842 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:20:44,870 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:21:04,992 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:21:09,420 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:21:24,447 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501531984, TransType=
+2015-03-06 15:31:42,856 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501531984  Bank2
+2015-03-06 15:31:42,861 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:31:52,250 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:31:52,255 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:32:00,766 [INFO ] – Retrieving results from Arcus.dll Reversal Transaction
+2015-03-06 15:32:00,790 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:33:46,824 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 15:33:46,851 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:33:46,888 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:33:46,892 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:33:51,924 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:34:35,825 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 15:34:35,851 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:34:35,887 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:34:35,895 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:34:40,435 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 15:34:40,441 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:34:40,459 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:34:40,463 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:34:40,967 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:34:45,588 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:35:42,538 [INFO ] – Validating Reversal Request's parameters Amount: 1  Transkey: 506501502232  Bank2
+2015-03-06 15:35:42,573 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-06 15:35:42,606 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:35:42,611 [INFO ] – Instantiating Arcus.dll and executing the Reversal Transaction
+2015-03-06 15:35:47,656 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-16 13:54:00,148 [INFO ] – Validating Sale Request's parameters
+2015-03-16 13:54:02,184 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-16 13:54:02,398 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-16 13:54:02,403 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-16 13:54:07,525 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-16 19:59:40,092 [INFO ] – Validating Sale Request's parameters
+2015-03-16 19:59:41,360 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-03-16 19:59:41,766 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-16 19:59:41,771 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-03-16 19:59:49,088 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-03-16 19:59:49,155 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-04-09 16:26:48,709 [INFO ] – Validating Sale Request's parameters
+2015-04-09 16:26:48,774 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-04-09 16:26:49,706 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-04-09 16:26:49,710 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-04-09 16:27:01,357 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-04-09 16:27:01,385 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-04-09 16:48:36,318 [INFO ] – Validating Sale Request's parameters
+2015-04-09 16:48:36,338 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2015-04-09 16:48:36,367 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-04-09 16:48:36,371 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2015-04-09 16:48:36,694 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2015-04-09 16:48:36,714 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-12-29 22:01:58,495 [INFO ] – Validating Sale Request's parameters
+2016-01-04 11:44:16,483 [INFO ] – Validating Sale Request's parameters
+2016-01-04 11:44:43,441 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2016-01-04 11:46:29,383 [INFO ] – Validating Sale Request's parameters
+2016-01-04 11:46:29,430 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2016-01-04 11:46:29,504 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-01-04 11:46:29,510 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2016-01-04 11:46:31,236 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2016-01-20 13:49:32,174 [INFO ] – Validating Sale Request's parameters
+2016-01-20 13:49:32,279 [INFO ] – Instantiating Arcus.dll's Request & Response objects
+2016-01-20 13:49:32,453 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-01-20 13:49:32,461 [INFO ] – Instantiating Arcus.dll and executing the Sale Transaction
+2016-01-20 13:49:34,249 [INFO ] – Retrieving results from Arcus.dll Sale Transaction
+2016-01-20 13:49:34,287 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale

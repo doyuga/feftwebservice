@@ -1,0 +1,179 @@
+2015-02-17 09:52:47,436 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-17 09:53:00,011 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-17 09:54:07,776 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-17 09:54:16,687 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:58:34,144 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-19 12:58:41,913 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:58:53,747 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-02-19 12:58:54,734 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-02-19 12:59:35,018 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=1
+2015-02-19 12:59:35,195 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-02-19 13:02:15,313 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=1
+2015-02-19 13:04:03,737 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-01 19:10:38,605 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-01 19:10:44,929 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-01 22:05:14,132 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-01 22:05:15,353 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-05 04:33:38,186 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:33:41,604 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-05 04:34:03,506 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:34:08,567 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-05 04:34:24,971 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-05 04:34:26,669 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 12:18:32,308 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:18:32,953 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 12:18:47,461 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:18:47,476 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 12:19:04,161 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:19:18,633 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501429105, TransType=Sale
+2015-03-06 12:20:15,905 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:20:32,116 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=122347, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501429918, TransType=Sale
+2015-03-06 12:24:20,101 [INFO ] – REQ.SALE. Arcus Request: Amount=0, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:24:39,145 [INFO ] – RES.SALE. Arcus Response: Amount=0, Cashback=100, AuthCode=, ResponseCode=203, CardExpiry=1801, CurrencyCode=404, Message=Refusal of sum input, PAN=379996xxxxxx315F, TID=00066724, RRN=, TransType=Sale
+2015-03-06 12:24:56,565 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:25:13,861 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=128547, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501433436, TransType=Sale
+2015-03-06 12:29:07,950 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 12:30:32,559 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=134113, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501436592, TransType=Sale
+2015-03-06 12:32:12,277 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 12:34:04,892 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=138606, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501439210, TransType=Sale
+2015-03-06 13:02:48,560 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:03:06,798 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=177172, ResponseCode=00, CardExpiry=1801, CurrencyCode=404, Message=Succesfully, PAN=379996xxxxxx315F, TID=00066724, RRN=506501461294, TransType=Sale
+2015-03-06 13:03:31,045 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:03:44,537 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=65, CardExpiry=1801, CurrencyCode=404, Message=The limit of operations is exceeded, PAN=379996xxxxxx315F, TID=00066724, RRN=506501461825, TransType=Sale
+2015-03-06 13:04:31,877 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:05:01,020 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=05, CardExpiry=1708, CurrencyCode=404, Message=Non-payment, PAN=519601xxxxxx0960, TID=00066724, RRN=, TransType=Sale
+2015-03-06 13:09:35,651 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:09:36,633 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 13:10:02,748 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:10:31,127 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 13:11:39,716 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 13:11:44,553 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 13:42:23,292 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:42:41,307 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501490148, TransType=Sale
+2015-03-06 13:57:31,182 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:57:48,330 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1708, CurrencyCode=404, Message=Refer to your Bank, PAN=519601xxxxxx0960, TID=00066724, RRN=506501501047, TransType=Sale
+2015-03-06 13:59:01,505 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 13:59:28,100 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Sale
+2015-03-06 14:00:01,904 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:02,452 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:14,673 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:14,919 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:26,852 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:27,093 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:00:44,363 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,1,1
+2015-03-06 14:00:52,969 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:00:53,366 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:01:26,119 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:01:26,348 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:05:24,007 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:05:25,082 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=210074, ResponseCode=999506501502232, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501502232, TransType=Reversal
+2015-03-06 14:07:01,127 [ERROR] – REQ: Reversal - Invalid Trans.Amount: 1,0,1
+2015-03-06 14:07:13,278 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:07:16,971 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:18:09,944 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:18:58,729 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:19:12,946 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:19:15,181 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:19:21,480 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:19:21,546 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:19:31,072 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:20:16,884 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:21:50,154 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:21:59,768 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:24:44,850 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:26:30,236 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:26:42,717 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:28:26,813 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:28:40,453 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:29:01,471 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:30:24,304 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:31:48,815 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:31:55,778 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:32:18,619 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:32:41,324 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:34:41,489 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:34:48,989 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:35:15,185 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:35:27,164 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:35:37,243 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:36:56,821 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:37:42,965 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:37:52,423 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:38:16,007 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:38:17,396 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-06 14:38:35,169 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:38:43,664 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:39:49,754 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:39:52,066 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:39:58,001 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:00,597 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:08,887 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=400, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:11,239 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=400, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:24,604 [INFO ] – REQ.SALE. Arcus Request: Amount=500, Cashback=400, CurrencyCode=404, OperationCode=1
+2015-03-06 14:40:27,419 [INFO ] – RES.SALE. Arcus Response: Amount=500, Cashback=400, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:40:55,664 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:41:45,799 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Sale
+2015-03-06 14:47:57,902 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 14:47:58,085 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:12,089 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:48:12,396 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:29,996 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN="50650153198
+2015-03-06 14:48:30,443 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:48:59,271 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:48:59,473 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=244525, ResponseCode=999506501531984, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501531984, TransType=Reversal
+2015-03-06 14:50:27,109 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 14:50:27,728 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 14:51:04,739 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-06 14:51:09,308 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:53:21,103 [INFO ] – REQ.SALE. Arcus Request: Amount=700, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:53:27,989 [INFO ] – RES.SALE. Arcus Response: Amount=700, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:53:40,586 [INFO ] – REQ.SALE. Arcus Request: Amount=700, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:53:54,913 [INFO ] – RES.SALE. Arcus Response: Amount=700, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2015-03-06 14:59:09,402 [INFO ] – REQ.SALE. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=1
+2015-03-06 14:59:29,055 [INFO ] – RES.SALE. Arcus Response: Amount=300, Cashback=0, AuthCode=259535, ResponseCode=00, CardExpiry=1708, CurrencyCode=404, Message=Succesfully, PAN=519601xxxxxx0688, TID=00066724, RRN=506501544645, TransType=Sale
+2015-03-06 15:00:57,775 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:00:58,781 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=259535, ResponseCode=999506501544645, CardExpiry=1708, CurrencyCode=404, Message=Answer code is not received, PAN=519601xxxxxx0688, TID=00066724, RRN=506501544645, TransType=Reversal
+2015-03-06 15:04:16,235 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:05:04,975 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:07:53,298 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:07:55,938 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:08:11,176 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:08:13,874 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:08:18,434 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:08:20,189 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:09:02,474 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:09:05,995 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:11:37,087 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:11:39,830 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:16:02,578 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=300, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501544645
+2015-03-06 15:16:07,626 [INFO ] – RES.REVERSAL. Arcus Response: Amount=300, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501544645, TransType=
+2015-03-06 15:16:27,117 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:16:28,909 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:16:41,183 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:16:43,267 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:17:29,302 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:17:32,677 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:21:00,766 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:21:24,437 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501531984, TransType=
+2015-03-06 15:31:52,237 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501531984
+2015-03-06 15:32:00,782 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2015-03-06 15:33:46,880 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:33:51,913 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:34:35,878 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:34:40,452 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:34:40,927 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:34:45,581 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-06 15:35:42,597 [INFO ] – REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=506501502232
+2015-03-06 15:35:47,649 [INFO ] – RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=506501502232, TransType=
+2015-03-16 13:54:02,368 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-16 13:54:07,432 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2015-03-16 19:59:41,730 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-03-16 19:59:49,149 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-04-09 16:26:49,629 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-04-09 16:27:01,376 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2015-04-09 16:48:36,360 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2015-04-09 16:48:36,708 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2016-01-04 11:46:29,454 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-01-04 11:46:31,230 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=402, CardExpiry=, CurrencyCode=, Message=Connection broke. Transaction could not be completed., PAN=, TID=, RRN=, TransType=
+2016-01-20 13:49:32,442 [INFO ] – REQ.SALE. Arcus Request: Amount=100, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-01-20 13:49:34,277 [INFO ] – RES.SALE. Arcus Response: Amount=100, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale

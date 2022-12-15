@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <PortName>COM9</PortName>
+    <BaudRate>9600</BaudRate>
+    <Timeout>10</Timeout>
+    <TxnTimeout>90</TxnTimeout>
+    <UploadTimeout>300</UploadTimeout>
+    <Trace>1</Trace>
+    <TracePath>C:\Program Files (x86)\Fortified Benture Co. Ltd\FEFT Web Service</TracePath>
+    <Delay>0</Delay>
+    <DelayTimeout>5</DelayTimeout>
+    <LICData>15CEB6E991F3279E</LICData>
+    <flgWaitRes>0</flgWaitRes>
+    <HostIp>196.216.223.10</HostIp>
+    <HostPort>39002</HostPort>
+    <HostTimeout>30</HostTimeout>
+  </Settings>
+</NewDataSet>

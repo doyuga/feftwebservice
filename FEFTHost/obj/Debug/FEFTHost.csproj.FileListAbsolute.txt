@@ -1,0 +1,325 @@
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\app.config
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.Cache
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\app.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.Cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\app.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\ECR.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTRest.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.exe
+D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTWsvc - Uchumi\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.Cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Users\User\Documents\My stuff\EQUITY\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.Cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Users\User\Documents\My stuff\EQUITY\SETUP FILES\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\app.config
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+D:\Virus Remover\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\app.config
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojResolveAssemblyReference.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\app.config
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojAssemblyReference.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojAssemblyReference.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\log4net.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\log4net.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\log4net.xml
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csprojAssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\log4net.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\log4net.xml
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.AssemblyReference.cache
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\app.config
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe.config
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.exe
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHost.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\log4net.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\ECR.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTRest.dll.config
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\log4net.xml
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\FEFTHelper.dll.config
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\ECR.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\feft_uba.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.AssemblyReference.cache
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.frmFEFTHost.resources
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.Properties.Resources.resources
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.GenerateResource.cache
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CoreCompileInputs.cache
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.csproj.CopyComplete
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.exe
+C:\Users\dan.oyuga\Downloads\FEFTWsvc-20220706T065325Z-001\FEFTWsvc\FEFTHost\obj\Debug\FEFTHost.pdb

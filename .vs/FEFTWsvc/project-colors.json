@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9cbd1a7-9772-490a-b08d-cdac0b40b334": {
+      "ProjectGuid": "b9cbd1a7-9772-490a-b08d-cdac0b40b334",
+      "DisplayName": "FEFTRest",
+      "ColorIndex": 0
+    },
+    "114ad3b2-d936-4d71-bf24-215805fd01b1": {
+      "ProjectGuid": "114ad3b2-d936-4d71-bf24-215805fd01b1",
+      "DisplayName": "FEFTHost",
+      "ColorIndex": 1
+    },
+    "b1f0042c-e766-4130-addc-fb3f6e5c424d": {
+      "ProjectGuid": "b1f0042c-e766-4130-addc-fb3f6e5c424d",
+      "DisplayName": "FEFTHelper",
+      "ColorIndex": 2
+    },
+    "6e81881c-ebed-4f19-9257-3ee9bc706011": {
+      "ProjectGuid": "6e81881c-ebed-4f19-9257-3ee9bc706011",
+      "DisplayName": "ECR",
+      "ColorIndex": 3
+    },
+    "965e7f83-6c6b-4bf8-a051-175a95c00c40": {
+      "ProjectGuid": "965e7f83-6c6b-4bf8-a051-175a95c00c40",
+      "DisplayName": "feft-uba",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

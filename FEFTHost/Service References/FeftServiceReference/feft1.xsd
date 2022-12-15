@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/FEFTRest" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/FEFTRest" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="FEFTResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="amount" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="authCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cardExpiry" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cashBack" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="currency" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="invoiceNo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mid" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="msg" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="pan" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="paymentDetails" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="respCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rrn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tid" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="transactionType" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FEFTResponse" nillable="true" type="tns:FEFTResponse" />
+  <xs:complexType name="SaleRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Bank" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CashBack" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TillNO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TransKey" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SaleRequest" nillable="true" type="tns:SaleRequest" />
+  <xs:complexType name="ReversalRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Bank" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TransKey" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ReversalRequest" nillable="true" type="tns:ReversalRequest" />
+</xs:schema>

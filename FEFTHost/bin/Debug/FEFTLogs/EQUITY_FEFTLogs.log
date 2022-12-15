@@ -1,0 +1,466 @@
+2016-07-29 18:53:30,520 [INFO ] Ц REQ.SALE. Arcus Request: Amount=2, Cashback=100, CurrencyCode=404, OperationCode=1
+2016-07-29 18:53:40,632 [INFO ] Ц RES.SALE. Arcus Response: Amount=2, Cashback=100, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:28:23,941 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:28:28,414 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:28:36,609 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:28:39,045 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2016-08-09 14:52:18,002 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2016-08-09 14:52:21,665 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=No response code, PAN=, TID=, RRN=, TransType=Sale
+2018-03-08 23:15:54,494 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-08 23:16:00,533 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-10 22:50:46,752 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:51:37,510 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=1904, CurrencyCode=404, Message=Incorrect sum, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203447, TransType=Sale
+2018-03-10 22:52:09,656 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:52:39,787 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1904, CurrencyCode=404, Message=Not enough means, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203467, TransType=Sale
+2018-03-10 22:53:05,403 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-10 22:53:42,022 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=51, CardExpiry=1904, CurrencyCode=404, Message=Not enough means, PAN=440783xxxxxx7651, TID=00502600, RRN=806914203482, TransType=Sale
+2018-03-12 10:08:03,992 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-12 10:08:49,222 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=523916, ResponseCode=00, CardExpiry=1911, CurrencyCode=404, Message=Succesfully, PAN=517335xxxxxx3700, TID=00502600, RRN=807113678110, TransType=Sale
+2018-03-12 10:10:23,389 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-12 10:10:49,166 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-12 10:10:56,313 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-20 12:52:16,075 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:53:10,900 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:55:39,758 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:56:44,553 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-20 12:56:54,385 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-21 21:20:44,562 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-21 21:22:19,198 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:32:23,765 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:33:40,352 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:35:14,103 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:35:35,805 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:36:33,545 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:36:53,507 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:37:47,553 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:39:28,608 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:39:37,190 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:55:01,186 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:55:07,216 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-03-26 14:56:34,514 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 14:57:09,967 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=968027, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=Succesfully, PAN=418087xxxxxx2701, TID=00765390, RRN=808513870493, TransType=Sale
+2018-03-26 15:01:18,956 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-26 15:01:59,007 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=920028, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=Succesfully, PAN=418087xxxxxx2701, TID=00765390, RRN=808513871477, TransType=Sale
+2018-03-28 12:46:07,360 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:24,400 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:47:41,367 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:48:10,575 [INFO ] Ц Retrieving results from Arcus.dll Sale Transaction
+2018-03-28 12:48:10,575 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:48:10,591 [INFO ] Ц Instantiating Arcus.dll and executing the Sale Transaction
+2018-03-28 12:48:12,813 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:48:12,813 [INFO ] Ц String Message: ... stream ...
+2018-03-28 12:48:14,799 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 12:58:18,339 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:58:43,881 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 12:58:46,395 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 13:07:22,130 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 12,1
+2018-03-28 13:08:45,784 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 12,1
+2018-03-28 13:10:16,771 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=12
+2018-03-28 13:11:22,985 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-03-28 13:11:44,269 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=5, RRN=12
+2018-03-28 13:11:44,312 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-03-28 13:16:50,342 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:17:05,690 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=808713160235, TransType=Sale
+2018-03-28 13:56:13,465 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 13:56:21,246 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2109, CurrencyCode=404, Message=Answer code is not received, PAN=453179xxxxxx3122, TID=00765390, RRN=, TransType=Reversal
+2018-03-28 13:56:57,132 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:57:15,836 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=808713166874, TransType=Sale
+2018-03-28 13:57:26,131 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:57:39,992 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 13:57:45,170 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 13:58:10,778 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Sale
+2018-03-28 13:59:09,194 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 13:59:22,456 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Reversal
+2018-03-28 14:00:09,273 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 14:00:18,529 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=151221, ResponseCode=999808714568151, CardExpiry=2109, CurrencyCode=404, Message=Answer code is not received, PAN=453179xxxxxx3122, TID=00765390, RRN=808714568151, TransType=Reversal
+2018-03-28 14:10:03,672 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:10:15,136 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 14:18:18,838 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:18:40,065 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-03-28 14:18:42,730 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-03-28 14:19:09,997 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=12
+2018-03-28 14:19:19,785 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=0, AuthCode=153464, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=808714571558, TransType=Reversal
+2018-04-09 09:33:37,717 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:33:46,662 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-09 09:34:01,759 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:48:46,487 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-09 09:49:25,901 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 07:40:44,479 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:41:43,553 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 07:41:47,113 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:42:36,022 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 07:42:58,171 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813163856, TransType=Sale
+2018-04-18 07:43:13,071 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=473524, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814561563, TransType=Sale
+2018-04-18 07:44:05,285 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 07:44:30,973 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 07:44:58,610 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=473524, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814561563, TransType=Reversal
+2018-04-18 08:33:06,263 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 08:33:15,639 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 08:33:48,217 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813167034, TransType=Sale
+2018-04-18 08:33:55,681 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 08:34:20,616 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=474474, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814564776, TransType=Sale
+2018-04-18 08:34:54,768 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 08:35:02,683 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=474474, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814564776, TransType=Reversal
+2018-04-18 11:02:58,734 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 11:03:02,463 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 11:03:16,219 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Reversal
+2018-04-18 12:01:19,258 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:02:03,013 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813198267, TransType=Sale
+2018-04-18 12:04:41,705 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:05:14,985 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810814596258, TransType=Sale
+2018-04-18 12:06:17,667 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:13:52,523 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:14:00,014 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:14:06,725 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:14:10,009 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=984, CardExpiry=, CurrencyCode=404, Message=Ќет кода ответа, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:14:48,622 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:16:54,533 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813200503, TransType=Sale
+2018-04-18 12:19:02,896 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:20:16,298 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813201202, TransType=Sale
+2018-04-18 12:23:11,924 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:35,770 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:42,820 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 12:23:45,282 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:23:47,998 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-18 12:25:13,532 [ERROR] Ц REQ: Reversal - Invalid Trans.Amount: 100,0,1,1
+2018-04-18 12:25:30,721 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=10000, Cashback=0, CurrencyCode=404, OperationCode=2, RRN=1
+2018-04-18 12:25:36,587 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=10000, Cashback=0, AuthCode=485095, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00765390, RRN=810814599366, TransType=Reversal
+2018-04-18 13:03:21,097 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 13:03:38,505 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00765390, RRN=810813208430, TransType=Sale
+2018-04-18 13:12:27,200 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-18 13:12:47,734 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=13, CardExpiry=2109, CurrencyCode=404, Message=Incorrect sum, PAN=453179xxxxxx3122, TID=00062180, RRN=810813209938, TransType=Sale
+2018-04-25 10:24:21,765 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:52,617 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:55,020 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=934529, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513023899, TransType=Sale
+2018-04-25 10:24:55,051 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:57,407 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:24:57,453 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:24:59,372 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:25:00,776 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:26:11,320 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=2, RRN=
+2018-04-25 10:26:40,906 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:28:07,316 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:28:27,746 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:28:29,774 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=934757, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514421709, TransType=Sale
+2018-04-25 10:28:31,040 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:28:43,963 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:29:13,441 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:30:45,077 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:30:58,399 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:32:13,244 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:32:26,792 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:33:30,160 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:33:47,906 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:36:32,510 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:36:49,039 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:41:29,388 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:41:40,946 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:43:07,264 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:43:30,425 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 10:43:32,503 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=935750, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514424181, TransType=Sale
+2018-04-25 10:43:33,847 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 10:47:23,964 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:47:37,024 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:47:59,756 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:48:12,736 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 10:57:30,660 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 10:57:49,615 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 192
+2018-04-25 11:02:37,574 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:02:56,813 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:03:00,015 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=937139, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513030210, TransType=Sale
+2018-04-25 11:03:00,371 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:04:52,659 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:05:03,836 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in D:\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 193
+2018-04-25 11:07:37,453 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:07:57,809 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:08:00,649 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:08:02,749 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=937523, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811514428340, TransType=Sale
+2018-04-25 11:08:50,186 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:11:24,545 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:12:10,231 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=, AuthCode=937523, ResponseCode=218811514428340, CardExpiry=2109, CurrencyCode=404, Message=Ќет кода ответа, PAN=453179xxxxxx3122, TID=00739280, RRN=811514428340, TransType=Reversal
+2018-04-25 11:23:37,457 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:23:58,439 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-04-25 11:24:01,150 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=938758, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513033700, TransType=Sale
+2018-04-25 11:24:01,277 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2018-04-25 11:25:10,732 [INFO ] Ц REQ.REVERSAL. Arcus Request: Amount=100, Cashback=, CurrencyCode=404, OperationCode=4, RRN=
+2018-04-25 11:26:02,166 [INFO ] Ц RES.REVERSAL. Arcus Response: Amount=100, Cashback=, AuthCode=938758, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=Succesfully, PAN=453179xxxxxx3122, TID=00739280, RRN=811513033700, TransType=Reversal
+2018-07-19 19:51:51,174 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:52:56,922 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=411, CardExpiry=0000, CurrencyCode=404, Message=ARCUS: »стек тайм-аут чтени€ карты , PAN=, TID=14150026, RRN=12234, TransType=Sale
+2018-07-19 19:55:16,520 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:56:08,998 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2107, CurrencyCode=404, Message=Ќ≈“ —¬я«» — ѕ»Ќ-ѕјƒќћ, PAN=418087xxxxxx2701, TID=14150026, RRN=12234, TransType=Sale
+2018-07-19 19:56:16,945 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-07-19 19:57:18,167 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=MBRNJU, ResponseCode=00, CardExpiry=2107, CurrencyCode=404, Message=”спешно, PAN=418087xxxxxx2701, TID=14150026, RRN=000321419267, TransType=Sale
+2018-10-17 18:38:19,317 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:38:56,856 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2109, CurrencyCode=404, Message=Ќеверна€ сумма, PAN=453179xxxxxx3122, TID=00803410, RRN=829014468564, TransType=Sale
+2018-10-17 18:39:32,105 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:39:58,751 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865340, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829014468815, TransType=Sale
+2018-10-17 18:42:58,575 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:44:32,651 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:45:21,429 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:45:45,930 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865740, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829013145513, TransType=Sale
+2018-10-17 18:47:26,825 [ERROR] Ц Object reference not set to an instance of an object.
+2018-10-17 18:48:23,198 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2018-10-17 18:48:48,607 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=865966, ResponseCode=00, CardExpiry=2109, CurrencyCode=404, Message=”спешно, PAN=453179xxxxxx3122, TID=00803410, RRN=829013146312, TransType=Sale
+2019-12-17 23:28:14,971 [ERROR] Ц System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {69ABA4AF-536D-497D-A0D7-6956AEA24CF5} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at FEFTHelper.ArcusDll.execSale(String Amount, String cashBack, String CashierID, String tillNO, String transKey, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 49
+2019-12-17 23:28:15,018 [ERROR] Ц Object reference not set to an instance of an object.
+2019-12-17 23:31:36,270 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:31:57,657 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:32:15,022 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:32:15,763 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Answer code is not received, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:37:45,537 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:37:49,068 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:37:57,009 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:37:57,952 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:19,945 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:23,585 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:46,705 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:47,552 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:38:55,315 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:38:56,107 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:41:07,942 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:41:21,237 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:41:25,575 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:41:31,537 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:42:06,152 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:42:09,926 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=0000, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2019-12-17 23:42:53,958 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2019-12-17 23:42:57,986 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:04:17,555 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:04:20,028 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:04:34,033 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:04:34,539 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-05 02:05:57,062 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:06:37,313 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962380, TransType=Sale
+2020-08-05 02:06:58,261 [INFO ] Ц REQ.SALE. Arcus Request: Amount=10, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:07:30,097 [INFO ] Ц RES.SALE. Arcus Response: Amount=10, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962445, TransType=Sale
+2020-08-05 02:08:15,592 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-05 02:08:34,721 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=353043, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000656962546, TransType=Sale
+2020-08-19 23:40:15,880 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-19 23:40:22,398 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-19 23:46:51,300 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execEchotest(Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 512
+2020-08-19 23:57:29,508 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execEchotest(Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 512
+2020-08-19 23:58:05,861 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execEchotest(Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 512
+2020-08-20 00:01:38,039 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execEchotest(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 512
+2020-08-20 00:06:17,971 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execEchotest(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 512
+2020-08-20 11:04:26,277 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 11:04:34,852 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 11:04:40,291 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 11:05:09,250 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=3
+2020-08-20 11:05:14,077 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=077, CardExpiry=0000, CurrencyCode=404, Message=Operation is impossible., PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:05:18,424 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=3
+2020-08-20 11:05:22,377 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=077, CardExpiry=0000, CurrencyCode=404, Message=Operation is impossible., PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:08:18,225 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:11:18,619 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:15:08,052 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=6
+2020-08-20 11:15:11,264 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:15:22,598 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=6
+2020-08-20 11:15:25,013 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:17:55,335 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:17:55,679 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:18:08,009 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:18:08,120 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:18:18,833 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:18:19,064 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:04,310 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:04,578 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:10,273 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:10,562 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:31:21,444 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:31:21,658 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:44:26,107 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:44:26,517 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:46:12,745 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:46:12,905 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:47:29,469 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:47:29,548 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:50:23,669 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:50:23,807 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:50:41,964 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=96
+2020-08-20 11:50:42,044 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:51:21,333 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:51:35,557 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 11:55:45,885 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 11:55:54,957 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:08:31,580 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:08:40,685 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:21:54,653 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:22:04,145 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:22:07,856 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:22:16,907 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 12:25:47,886 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:35:41,384 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:37:19,508 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=11
+2020-08-20 12:38:36,551 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=, CardExpiry=0000, CurrencyCode=404, Message=Refer to your Bank, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 20:18:51,936 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 20:18:56,408 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2020-08-20 20:19:25,299 [ERROR] Ц System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.ArcusDll.execEchotest() in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 465
+2020-08-20 21:33:12,960 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execRecon(Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 303
+2020-08-20 22:13:20,243 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:13:24,264 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:19:04,730 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:19:08,483 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:47:35,458 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:47:39,326 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:49:00,208 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:49:03,413 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:51:13,218 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:51:27,621 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 22:57:06,221 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 22:57:49,068 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=013, CardExpiry=2104, CurrencyCode=404, Message=Incorrect sum, PAN=453177xxxxxx6488, TID=14150026, RRN=000663031279, TransType=Sale
+2020-08-20 23:00:29,711 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:00:51,405 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=283807, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663031569, TransType=Sale
+2020-08-20 23:53:56,417 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:54:02,970 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:55:47,854 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:55:51,381 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:56:19,865 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:56:34,194 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=250, CardExpiry=0000, CurrencyCode=404, Message=пњљпњљпњљ пњљпњљпњљпњљ пњљпњљпњљпњљпњљпњљ, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-20 23:56:42,706 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-20 23:57:10,373 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=284481, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663035575, TransType=Sale
+2020-08-21 17:50:59,387 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 176
+2020-08-21 17:51:11,744 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 176
+2020-08-21 17:53:53,875 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 176
+2020-08-21 17:55:11,826 [ERROR] Ц System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at FEFTHelper.Utils.formatAmount(String amnt, Boolean toPinpad) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\utilies\Utils.cs:line 15
+   at FEFTHelper.ArcusDll.execReversal(String Amount, String rrn, Boolean log_Debug) in C:\Fortified\fortified benture\Developments\Virus Remover\Safaricom\FEFTWsvc\FEFTHelper\ArcusDll.cs:line 176
+2020-08-21 18:00:48,321 [INFO ] Ц GET http://localhost:6120/feft/reversal/1,1,100
+Upgrade-Insecure-Requests 1
+Sec-Fetch-Site none
+Sec-Fetch-Mode navigate
+Sec-Fetch-User ?1
+Sec-Fetch-Dest document
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding gzip, deflate, br
+Accept-Language en-US,en;q=0.9,es;q=0.8
+Host localhost:6120
+User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+
+2020-08-21 18:06:36,377 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:06:47,110 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 18:23:01,635 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:29:56,158 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=005, CardExpiry=2104, CurrencyCode=404, Message=Non-payment, PAN=453177xxxxxx6488, TID=14150026, RRN=000001000005, TransType=Sale
+2020-08-21 18:49:27,336 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 18:49:54,885 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2104, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=453177xxxxxx6488, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:00:24,583 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:00:42,984 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=2104, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=453177xxxxxx6488, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:25:37,415 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:25:44,393 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:26:03,908 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:26:36,670 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=, ResponseCode=094, CardExpiry=2104, CurrencyCode=404, Message=Double transfer, PAN=453177xxxxxx6488, TID=14150026, RRN=000663035575, TransType=Sale
+2020-08-21 19:27:20,509 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:27:51,592 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=357365, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663389934, TransType=Sale
+2020-08-21 19:33:33,657 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:33:37,339 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:33:44,131 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:34:05,623 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=357845, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663391872, TransType=Sale
+2020-08-21 19:42:00,010 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:42:03,531 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=212, CardExpiry=0000, CurrencyCode=404, Message=Refusal of card input, PAN=, TID=14150026, RRN=, TransType=Sale
+2020-08-21 19:42:10,665 [INFO ] Ц REQ.SALE. Arcus Request: Amount=100, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-08-21 19:42:35,061 [INFO ] Ц RES.SALE. Arcus Response: Amount=100, Cashback=0, AuthCode=358497, ResponseCode=00, CardExpiry=2104, CurrencyCode=404, Message=Succesfully, PAN=453177xxxxxx6488, TID=14150026, RRN=000663394336, TransType=Sale
+2020-10-25 12:17:20,546 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2020-10-25 12:17:21,858 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 11:17:09,755 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 11:17:13,270 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:43:21,135 [INFO ] Ц REQ.SALE. Arcus Request: Amount=2, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:43:29,851 [INFO ] Ц RES.SALE. Arcus Response: Amount=2, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:43:53,480 [INFO ] Ц REQ.SALE. Arcus Request: Amount=200, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:44:01,045 [INFO ] Ц RES.SALE. Arcus Response: Amount=200, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2021-03-13 13:44:26,866 [INFO ] Ц REQ.SALE. Arcus Request: Amount=228, Cashback=0, CurrencyCode=404, OperationCode=1
+2021-03-13 13:44:34,813 [INFO ] Ц RES.SALE. Arcus Response: Amount=228, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2022-06-22 22:58:52,955 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 22:58:55,904 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2022-06-22 23:02:58,184 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 23:03:10,831 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale
+2022-06-22 23:03:25,424 [INFO ] Ц REQ.SALE. Arcus Request: Amount=1, Cashback=0, CurrencyCode=404, OperationCode=1
+2022-06-22 23:03:37,348 [INFO ] Ц RES.SALE. Arcus Response: Amount=1, Cashback=0, AuthCode=, ResponseCode=999, CardExpiry=, CurrencyCode=404, Message=Unable to connect to PIN PAD, PAN=, TID=, RRN=, TransType=Sale

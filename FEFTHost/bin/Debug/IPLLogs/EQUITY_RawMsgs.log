@@ -1,0 +1,470 @@
+2015-02-17 09:54:00,673 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+
+2015-02-17 09:54:17,280 [INFO ] – String Message: ... stream ...
+2015-02-17 09:54:17,454 [INFO ] – Response to request to http://localhost:6720/ipl/sale/1,2,1,1,1:
+200 OK
+{"Cashback":null,"amount":"1","authCode":"","cardExpiry":"","currency":"404","mid":"","msg":"Answer code is not received","pan":"","paymentDetails":null,"respCode":"999","rrn":"","tid":"","transactionType":"Sale"}
+
+2015-02-19 12:58:33,805 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Cookie ASP.NET_SessionId=oxpierqrxtvhw1rwo4n2tidr; b_Admin_visibility=hidden
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+
+2015-02-19 12:58:53,724 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Cookie ASP.NET_SessionId=oxpierqrxtvhw1rwo4n2tidr; b_Admin_visibility=hidden
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+
+2015-03-01 19:10:38,214 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Cookie ASP.NET_SessionId=ee35015vxexihd4swfhcjyej
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-01 22:05:13,813 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-05 04:33:34,267 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-05 04:34:03,288 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-05 04:34:24,840 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:18:31,934 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:18:47,432 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:19:04,126 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:20:15,875 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:24:20,072 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,0,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:24:56,540 [INFO ] – GET http://localhost:6720/ipl/sale/0,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:29:07,921 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:31:41,830 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,01
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 12:32:12,230 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:02:47,544 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:03:31,014 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:04:31,854 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:09:35,619 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:10:02,724 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:11:39,689 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:42:23,213 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:57:31,151 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 13:59:01,473 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:07:13,247 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:18:09,847 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:18:58,375 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:19:15,147 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:19:21,206 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:21:50,068 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:24:44,823 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:26:30,158 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:28:26,678 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:29:01,439 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:31:48,740 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:32:18,597 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:34:41,417 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:35:15,150 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:35:37,218 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:37:42,864 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:38:15,974 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:38:35,096 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:39:49,558 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:39:57,966 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:40:08,855 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,4,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:40:24,574 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,5,4,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:40:55,638 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:51:04,639 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:53:21,069 [INFO ] – GET http://localhost:6720/ipl/sale/3,2,7,0,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:53:40,560 [INFO ] – GET http://localhost:6720/ipl/sale/3,2,7,0,8
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+
+2015-03-06 14:59:09,298 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,3,0,7
+Connection Keep-Alive
+Accept image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Encoding gzip, deflate
+Accept-Language en-US
+Host localhost:6720
+User-Agent Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E)
+
+2015-03-16 13:53:58,857 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+
+2015-03-16 19:59:36,559 [INFO ] – GET http://localhost:6720/ipl/sale/1,2,1,1,1
+Cache-Control max-age=0
+Connection keep-alive
+Accept text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding gzip, deflate, sdch
+Accept-Language en-US,en;q=0.8
+Host localhost:6720
+User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+

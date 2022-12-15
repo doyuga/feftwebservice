@@ -1,0 +1,88 @@
+2017-04-08 11:43:58,174 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 41
+2017-04-08 11:44:04,101 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 41
+2017-04-08 11:46:48,570 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 41
+2017-04-08 12:16:37,699 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 45
+2017-05-10 14:13:26,049 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 40
+2017-05-10 15:13:28,270 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 43
+2017-05-30 11:33:30,213 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 43
+2017-05-30 11:35:52,660 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 43
+2017-05-30 11:39:15,466 [ERROR] – Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 369
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 415
+   at Newtonsoft.Json.Linq.JObject.Parse(String json) in C:\Development\Releases\Json\Working\Newtonsoft.Json\Working-Signed\Src\Newtonsoft.Json\Linq\JObject.cs:line 398
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 43
+2017-06-27 12:47:47,860 [ERROR] – System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at FEFTHelper.Ezzypay.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\fortified benture\Developments\FEFTWsvc - Uchumi\FEFTHelper\Ezzypay.cs:line 73
+2018-07-25 10:53:43,886 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 107
+2018-07-25 11:19:20,697 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-25 11:41:25,644 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-25 11:43:11,979 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-25 11:52:16,378 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-25 19:25:20,822 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-25 19:26:15,137 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 108
+2018-07-26 12:26:25,238 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.Barclays.execSale(String amount, String cashBack, String tillNO, String transKey, Boolean log_Debug) in D:\Comp\fortified benture\Developments\Virus Remover\Nairobi Hospital\FEFTWsvc\FEFTHelper\Barclays.cs:line 42
+2021-11-08 02:32:18,578 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:34:06,804 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:35:31,471 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:36:13,212 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:39:03,953 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:42:00,736 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-08 02:43:16,821 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-09 10:00:26,580 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-09 23:38:47,582 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
+2021-11-12 09:47:16,068 [ERROR] – System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEFTHelper.MpesaExpress.execSale(String amount, String cashBack, String CashierID, String TillNo, String transKey, Boolean log_Debug) in C:\Fortified\Fortified\fortified benture\Developments\Virus Remover\Palladium\FEFTWsvc\FEFTHelper\MpesaExpress.cs:line 44
